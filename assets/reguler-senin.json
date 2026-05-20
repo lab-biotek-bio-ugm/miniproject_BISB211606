@@ -1,0 +1,522 @@
+{
+  "sessions": {
+    "start": 720,
+    "duration": 15
+  },
+  "slots": [
+    {
+      "no": 1,
+      "group": "Reguler 1",
+      "theme": "Bioinformatika Pertanian & Peternakan",
+      "title": "PEMANFAATAN Azolla caroliniana SEBAGAI HERBISIDA DAN PAKAN Oreochromis niloticus",
+      "members": [
+        {
+          "name": "Adrian Pradipto Harmawan",
+          "nim": "23/520012/BI/11320"
+        },
+        {
+          "name": "Yusuf Maulana Affwan",
+          "nim": "23/519768/BI/11314"
+        },
+        {
+          "name": "Gracia Rosalind Kurniawan",
+          "nim": "23/519077/BI/11309"
+        },
+        {
+          "name": "Wisnu Jaya Permana",
+          "nim": "23/523114/BI/11381"
+        },
+        {
+          "name": "Dwi Riza Setyawan",
+          "nim": "23/518204/BI/11281"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 2,
+      "group": "Reguler 2",
+      "theme": "",
+      "title": "",
+      "members": [
+        {
+          "name": "Afif Jundy Maulana",
+          "nim": "23/520918/BI/11335"
+        },
+        {
+          "name": "Neil Pudjanegara",
+          "nim": "23/516866/BI/11251"
+        },
+        {
+          "name": "Ikhlasul Amal",
+          "nim": "23/518538/BI/11292"
+        },
+        {
+          "name": "Andika Edwin Novianto Ramadhan",
+          "nim": "23/523012/BI/11378"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 3,
+      "group": "Reguler 3",
+      "theme": "Bioinformatika Evolusioner & Filogenetik",
+      "title": "CREST: Comparative Research on Evolution, Selection pressure, and codon usage of Three Cacatua species",
+      "members": [
+        {
+          "name": "Zafiero Hasby Dzikri",
+          "nim": "23/514655/BI/11199"
+        },
+        {
+          "name": "Ihsanul Fikri Alfarizel",
+          "nim": "23/514678/BI/11202"
+        },
+        {
+          "name": "Adelia Yusuf Ardhani",
+          "nim": "23/517844/BI/11271"
+        },
+        {
+          "name": "Diandra Azhariyavi Insiraty",
+          "nim": "23/513088/BI/11176"
+        },
+        {
+          "name": "Diva Septiani",
+          "nim": "23/514845/BI/11208"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 4,
+      "group": "Reguler 4",
+      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
+      "title": "Analisis Ekspresi Gen Diferensial dan Enrichment Pathway pada Kanker Pankreas Berdasarkan Dataset GEO GSE28735",
+      "members": [
+        {
+          "name": "Adha Nurkholifah",
+          "nim": "23/518426/BI/11287"
+        },
+        {
+          "name": "Devi Korniasari",
+          "nim": "23/519029/BI/11306"
+        },
+        {
+          "name": "Talitha Daris Nirwasita",
+          "nim": "23/518540/BI/11294"
+        },
+        {
+          "name": "Hanin Izdihar",
+          "nim": "23/517672/BI/11265"
+        },
+        {
+          "name": "Ade Riyana Pangestika",
+          "nim": "22/499349/BI/11052"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 5,
+      "group": "Reguler 5",
+      "theme": "Bioinformatika Struktural & Fungsional",
+      "title": "Analisis Perbandingan Pharokka dan Phold dalam Annotasi Fungsional Genom Enterobacteria Phage Lambda",
+      "members": [
+        {
+          "name": "Muhammad Naufal Arya Pratama",
+          "nim": "23/518499/BI/11291"
+        },
+        {
+          "name": "Alifia Zahra Fachrunisa",
+          "nim": "23/518539/BI/11293"
+        },
+        {
+          "name": "Berliana Aura Cinta Laela",
+          "nim": "23/521405/BI/11346"
+        },
+        {
+          "name": "Zahratun Nadwatits Tsaniyah",
+          "nim": "23/518441/BI/11289"
+        },
+        {
+          "name": "Jocelyn Christy Mary Koraag",
+          "nim": "23/518323/BI/11285"
+        }
+      ],
+      "github": "https://github.com/alifiazahrafachrunisa/Mini-Project-Bioinformatika.git"
+    },
+    {
+      "no": 6,
+      "group": "Reguler 6",
+      "theme": "Bioinformatika Struktural & Fungsional",
+      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) \u03b2\u2011Barrel Folding with AlphaFold",
+      "members": [
+        {
+          "name": "Fransiska Elsa Kusuma Astuti",
+          "nim": "23/513316/BI/11181"
+        },
+        {
+          "name": "Fadhila Eka Diannova",
+          "nim": "23/513413/BI/11182"
+        },
+        {
+          "name": "Kheysa Alvina Handayani",
+          "nim": "23/513687/BI/11183"
+        },
+        {
+          "name": "Jap. Marshella Devina Karunananda",
+          "nim": "23/514152/BI/11189"
+        },
+        {
+          "name": "Rohkmah Sholaikhatin",
+          "nim": "23/514201/BI/11192"
+        }
+      ],
+      "github": "https://github.com/japmarshella/GFPAlphaFold"
+    },
+    {
+      "no": 7,
+      "group": "Reguler 7",
+      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
+      "title": "",
+      "members": [
+        {
+          "name": "Syafina alya",
+          "nim": "23/518016/BI/11278"
+        },
+        {
+          "name": "Aisyah Fadhillah Ayuningrum",
+          "nim": "23/521662/BI/11350"
+        },
+        {
+          "name": "Desi Triana Wati",
+          "nim": "23/522581/BI/11372"
+        },
+        {
+          "name": "Enina Naizila",
+          "nim": "23/521556/BI/11348"
+        },
+        {
+          "name": "Nur'aini Azzahro",
+          "nim": "23/520825/BI/11333"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 8,
+      "group": "Reguler 8",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Virtual Screening Metabolit Sekunder Dendrobium officinale terhadap Angiotensin-Converting Enzyme (ACE) sebagai Kandidat Agen Antihipertensi",
+      "members": [
+        {
+          "name": "Calysta Naira Rohman",
+          "nim": "23/514636/BI/11198"
+        },
+        {
+          "name": "Nahya Nafisa Nariswari",
+          "nim": "23/514658/BI/11200"
+        },
+        {
+          "name": "Alivianissa Maheswari",
+          "nim": "23/515570/BI/11228"
+        },
+        {
+          "name": "Endah Esthiningtyas",
+          "nim": "23/519190/BI/11310"
+        },
+        {
+          "name": "Aulia Faza Dyasti",
+          "nim": "23/522221/BI/11366"
+        }
+      ],
+      "github": "https://github.com/astheriaa/Mini-Project-Bioinformatika-Kelompok-8-2026.git"
+    },
+    {
+      "no": 9,
+      "group": "Reguler 9",
+      "theme": "Bioinformatika Evolusioner & Filogenetik",
+      "title": "",
+      "members": [
+        {
+          "name": "Intania Mustofa",
+          "nim": "23/514735/BI/11204"
+        },
+        {
+          "name": "Latifah Fitri Alviani",
+          "nim": "23/521198/BI/11341"
+        },
+        {
+          "name": "Kamila Tsamara Yofana",
+          "nim": "23/514583/BI/11195"
+        },
+        {
+          "name": "Kamila Miza Sabrina",
+          "nim": "23/523324/BI/11385"
+        },
+        {
+          "name": "Nur Fatimah Ratna Handayani",
+          "nim": "23/518359/BI/11286"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 10,
+      "group": "Reguler 10",
+      "theme": "Bioinformatika Evolusioner & Filogenetik",
+      "title": "",
+      "members": [
+        {
+          "name": "Meutya Laila Syarifa",
+          "nim": "23/517607/BI/11263"
+        },
+        {
+          "name": "Dwi Pramesti Wahyuningtias",
+          "nim": "23/515091/BI/11217"
+        },
+        {
+          "name": "Az Zahra Blazei Damara Putri",
+          "nim": "23/517482/BI/11261"
+        },
+        {
+          "name": "Golda Theresia Simarmata",
+          "nim": "23/515024/BI/11214"
+        },
+        {
+          "name": "Khilda Aquilatin Nada",
+          "nim": "23/515256/BI/11220"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 11,
+      "group": "Reguler 11",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Studi In Silico Aktovitas Metabolit Sekunder Moringa oleifera terhadap MMP-13 sebagai Target Terapi Osteoarthritis",
+      "members": [
+        {
+          "name": "Tia Tevania Arifin",
+          "nim": "23/514669/BI/11201"
+        },
+        {
+          "name": "Rahma Amalia",
+          "nim": "23/514799/BI/11206"
+        },
+        {
+          "name": "Sevia Dwi Rahma Putri",
+          "nim": "23/514837/BI/11207"
+        },
+        {
+          "name": "Ziyan Fareysa Abharani",
+          "nim": "23/515018/BI/11213"
+        },
+        {
+          "name": "Lintang Ashilla Manaharany",
+          "nim": "23/514628/BI/11197"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 12,
+      "group": "Reguler 12",
+      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
+      "title": "",
+      "members": [
+        {
+          "name": "Zipora Ichranuani Narwastu Christy",
+          "nim": "23/513231/BI/11179"
+        },
+        {
+          "name": "Nazmi Soufi Alnifari",
+          "nim": "23/522512/BI/11371"
+        },
+        {
+          "name": "Puti Emilia Zikria Hapsari Segeh Pawiro",
+          "nim": "23/517676/BI/11266"
+        },
+        {
+          "name": "Juanita Aldriantika",
+          "nim": "23/522079/BI/11364"
+        },
+        {
+          "name": "Arkanti Anggita Putri",
+          "nim": "23/518217/BI/11282"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 13,
+      "group": "Reguler 13",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "",
+      "members": [
+        {
+          "name": "Syarifathunnisa Iryanti",
+          "nim": "23/518191/BI/11280"
+        },
+        {
+          "name": "Grace River T.P.S",
+          "nim": ""
+        },
+        {
+          "name": "Milka Natasya Purwanto",
+          "nim": "23/521488/BI/11347"
+        },
+        {
+          "name": "Rachel Geraldine Tabitha",
+          "nim": "23/517983/BI/11276"
+        },
+        {
+          "name": "Salsabila Nayla",
+          "nim": "23/517050/BI/11254"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 14,
+      "group": "Reguler 14",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "",
+      "members": [
+        {
+          "name": "Laras Ati",
+          "nim": ""
+        },
+        {
+          "name": "Geofani Karine Apriliana",
+          "nim": ""
+        },
+        {
+          "name": "Aditya Ilham Alim",
+          "nim": "23/513104/BI/11177"
+        },
+        {
+          "name": "Angelina Malya Talitha Wasitadewi",
+          "nim": "23/512089/BI/11170"
+        },
+        {
+          "name": "Firdausia Ayu Zuhria",
+          "nim": "23/523123/BI/11382"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 16,
+      "group": "Reguler 16",
+      "theme": "Machine Learning & Big Data dalam Biologi",
+      "title": "",
+      "members": [
+        {
+          "name": "Ahmed Mortezza",
+          "nim": ""
+        },
+        {
+          "name": "Nauval Rajwaa Raysendria",
+          "nim": ""
+        },
+        {
+          "name": "Yesha Fayyaza Firdausi",
+          "nim": ""
+        },
+        {
+          "name": "Geraldine Yara Amritarashmi",
+          "nim": ""
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 17,
+      "group": "Reguler 17",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Studi In Silico Potensi Senyawa Curcumin dan Quercetin sebagai Inhibitor Nucleocapsid 5E04 Protein pada Hantavirus menggunakan Molecular Docking",
+      "members": [
+        {
+          "name": "Fatimah Azzahra A",
+          "nim": ""
+        },
+        {
+          "name": "Fanisa Esa Alfira",
+          "nim": "23/517678/BI/11267"
+        },
+        {
+          "name": "Karina Safitri",
+          "nim": "23/518247/BI/11283"
+        },
+        {
+          "name": "Dwinda Jasti Nuraini",
+          "nim": "23/515625/BI/11230"
+        },
+        {
+          "name": "Miftah Fauziyah",
+          "nim": "23/521200/BI/11342"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 18,
+      "group": "Reguler 18",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "",
+      "members": [
+        {
+          "name": "Amelia Ikhsanti",
+          "nim": "23/512700/BI/11171"
+        },
+        {
+          "name": "Anisah Alifia Syarafina",
+          "nim": "23/516838/BI/11250"
+        },
+        {
+          "name": "Aura Prista Rukmana",
+          "nim": "23/518778/BI/11298"
+        },
+        {
+          "name": "Elisabet Lintang Permata",
+          "nim": "23/518792/BI/11299"
+        },
+        {
+          "name": "Adella Rivana Vika",
+          "nim": "23/522317/BI/11367"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 19,
+      "group": "Reguler 19",
+      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
+      "title": "Analisis Polimorfisme pada Zea Mays Menggunakan Software Geneious",
+      "members": [
+        {
+          "name": "Fatimah Zahra",
+          "nim": ""
+        },
+        {
+          "name": "Priza Aqeela Pasha",
+          "nim": "23/517855/BI/11272"
+        },
+        {
+          "name": "Stanisius Ken Sidharta",
+          "nim": "23/518963/BI/11303"
+        },
+        {
+          "name": "Caitlyn Winata",
+          "nim": "23/512874/BI/11174"
+        },
+        {
+          "name": "Casey Nathania Foekri",
+          "nim": "23/518454/BI/11290"
+        }
+      ],
+      "github": ""
+    }
+  ]
+}

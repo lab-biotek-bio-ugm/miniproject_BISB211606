@@ -1,0 +1,83 @@
+{
+  "sessions": {
+    "start": 960,
+    "duration": 15
+  },
+  "slots": [
+    {
+      "no": 27,
+      "group": "Reguler 27",
+      "theme": "Bioinformatika Evolusioner & Filogenetik",
+      "title": "",
+      "members": [
+        {
+          "name": "Lanaa Naila Najiha",
+          "nim": "23/515427/BI/11227"
+        },
+        {
+          "name": "Fadhlurrahman Manaarul Huda Surya Falah",
+          "nim": "23/519885/BI/11318"
+        },
+        {
+          "name": "Maria Nathania Prasetyo",
+          "nim": ""
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 28,
+      "group": "Reguler 28",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "",
+      "members": [
+        {
+          "name": "Mochamad Burhanuddin",
+          "nim": "23/523073/BI/11379"
+        },
+        {
+          "name": "Miftahurrozi",
+          "nim": "23/521832/BI/11359"
+        },
+        {
+          "name": "Khurin 'Aini",
+          "nim": "23/523091/BI/11380"
+        },
+        {
+          "name": "Hafizh Wahyu S",
+          "nim": "23/523176/BI/11383"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 30,
+      "group": "Reguler 30",
+      "theme": "Bioinformatika Struktural & Fungsional",
+      "title": "Karakterisasi Struktur dan Fungsi Spike Protein SARS-CoV-2 melalui Pemodelan Struktural 3D berbasis SWISS-MODEL",
+      "members": [
+        {
+          "name": "Farah Adina Ratri Sachariano",
+          "nim": "23/518439/BI/11288"
+        },
+        {
+          "name": "Grace Leilani Tumiwa",
+          "nim": "23/514910/BI/11209"
+        },
+        {
+          "name": "Foumiga Gusten Oktaviana",
+          "nim": "23/522176/BI/11356"
+        },
+        {
+          "name": "Fathma 'Ainusshifa'",
+          "nim": "23/522749/BI/11377"
+        },
+        {
+          "name": "Maidira Marsa Rabbani",
+          "nim": "23/516105/BI/11237"
+        }
+      ],
+      "github": ""
+    }
+  ]
+}

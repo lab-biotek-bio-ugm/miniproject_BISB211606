@@ -1,0 +1,54 @@
+{
+  "sessions": {
+    "start": 990,
+    "duration": 15
+  },
+  "slots": [
+    {
+      "no": 1,
+      "group": "IUP 1",
+      "theme": "Machine Learning & Big Data dalam Biologi",
+      "title": "WBC Numeration Using Image Recognition",
+      "members": [
+        {
+          "name": "Salvana",
+          "nim": ""
+        },
+        {
+          "name": "Rizal",
+          "nim": ""
+        },
+        {
+          "name": "Sebayang",
+          "nim": ""
+        },
+        {
+          "name": "Risqa",
+          "nim": ""
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 2,
+      "group": "IUP 2",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Network pharmacology of Alzheimer's disease and molecular docking of targeted proteins",
+      "members": [
+        {
+          "name": "Arista",
+          "nim": ""
+        },
+        {
+          "name": "Faizal",
+          "nim": ""
+        },
+        {
+          "name": "Shainna",
+          "nim": ""
+        }
+      ],
+      "github": ""
+    }
+  ]
+}
