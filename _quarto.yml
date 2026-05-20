@@ -4,6 +4,8 @@ project:
   preview:
     port: 4200
     browser: false
+  resources:
+  - assets/
 
 website:
   title: "Bioinformatics Mini Project Conference"

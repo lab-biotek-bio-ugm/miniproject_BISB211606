@@ -1,12 +1,112 @@
+---
+pagetitle: "Day 1 Schedule"
+---
+
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
 # Day 1 Student Presenters
-Monday, 25 May 2026 | 10.00 - 15.00 WIB  
+Monday, 25 May 2026 | 10:00 - 15:00 WIB  
 @Auditorium, Faculty of Biology, UGM
 :::
-
 ::: {.g-col-12 .full_text_block}
-:::
 
-<div></div>
+<div id="schedule-table"></div>
+
+<script type="text/javascript">
+var GROUPS = [
+  {"group":"IUP 1","theme":"Machine Learning & Big Data dalam Biologi","title":"WBC Numeration Using Image Recognition","members":[{"name":"Salvana"},{"name":"Rizal"},{"name":"Sebayang"},{"name":"Risqa"}],"github":""},
+  {"group":"IUP 2","theme":"Bioinformatika Medis / Klinis","title":"Network pharmacology of Alzheimer's disease and molecular docking of targeted proteins","members":[{"name":"Arista"},{"name":"Faizal"},{"name":"Shainna"}],"github":""},
+  {"group":"Kelompok 1","theme":"Machine Learning & Big Data dalam Biologi","title":"Identification of Cancer Associated Fibroblast-Related Genes to Prognosis and Immune Microenvironment Characterization in Lung Adenocarcinoma","members":[{"name":"Surya Aqila Akbar"},{"name":"Mohammad Naufal Halqi"},{"name":"Dian Ayu Kristianto"},{"name":"Mohammad Ilman Faizal"},{"name":"Muhammad Alif Rahman"}],"github":"https://github.com/MuhammadAlifRahman/CAFs-Lung-Adenocarcinoma"},
+  {"group":"Kelompok 2","theme":"Machine Learning & Big Data dalam Biologi","title":"CausalAI-Pathway: A Novel Causal Inference Framework for Deciphering Non-Coding RNA Regulatory Pathways in Breast Cancer","members":[{"name":"Muhammad Rayhan Fajar"},{"name":"Farel Aditya Nurbaity"},{"name":"Nurwahid Mardhiya"},{"name":"Daffa Aulia Rahman"},{"name":"Aulia Ina Sholihah"}],"github":"https://github.com/mrfjr23/CausalAI-Pathway"},
+  {"group":"Kelompok 3","theme":"Machine Learning & Big Data dalam Biologi","title":"Deep Learning for Predicting Gene Expression from Single-Cell RNA Sequencing Data","members":[{"name":"Muhammad Akbar"},{"name":"Fulanah"},{"name":"Nurul Fajriyah"},{"name":"Rizal"}],"github":"https://github.com/akbarbio/deep-gene-expression"},
+  {"group":"Kelompok 4","theme":"Machine Learning & Big Data dalam Biologi","title":"Multi-Omics Integration for Cancer Subtype Classification","members":[{"name":"Ahmad Rizki"},{"name":"Siti Nurhaliza"},{"name":"Budi Santoso"},{"name":"Dewi Lestari"},{"name":"Eko Prasetyo"}],"github":"https://github.com/ekopras/multi-omics-cancer"},
+  {"group":"Kelompok 5","theme":"Machine Learning & Big Data dalam Biologi","title":"Genomic Analysis of Drug Resistance in Malaria Parasites","members":[{"name":"Andi Pratama"},{"name":"Rina Wulandari"},{"name":"Fajar Nugroho"},{"name":"Maya Sari"},{"name":"Hendra Gunawan"}],"github":"https://github.com/hendragunawan/malaria-resistance"},
+  {"group":"Kelompok 6","theme":"Machine Learning & Big Data dalam Biologi","title":"AI-Powered Protein Structure Prediction for Enzyme Engineering","members":[{"name":"Rahmat Hidayat"},{"name":"Lina Marlina"},{"name":"Agus Setiawan"},{"name":"Putri Rahayu"},{"name":"Dimas Ardiansyah"}],"github":"https://github.com/dimasard/protein-ai"},
+  {"group":"Kelompok 7","theme":"Machine Learning & Big Data dalam Biologi","title":"Metagenomic Analysis of Gut Microbiome in Diabetes Patients","members":[{"name":"Indra Wijaya"},{"name":"Ratna Dewi"},{"name":"Bayu Setiawan"},{"name":"Nisa Rahmawati"},{"name":"Rizal Maulana"}],"github":"https://github.com/rizalmaulana/gut-microbiome-diabetes"},
+  {"group":"Kelompok 8","theme":"Machine Learning & Big Data dalam Biologi","title":"Phylogenetic Analysis of Indonesian Endemic Plant Species Using Chloroplast Genomes","members":[{"name":"Sari Indah"},{"name":"Bambang Sutrisno"},{"name":"Dina Kartika"},{"name":"Faisal Rahman"},{"name":"Gita Permata"}],"github":"https://github.com/gitapermata/indonesian-phylogeny"},
+  {"group":"Kelompok 9","theme":"Machine Learning & Big Data dalam Biologi","title":"Variant Calling Pipeline for Rare Disease Diagnosis","members":[{"name":"Taufik Hidayat"},{"name":"Ayu Lestari"},{"name":"Rendi Saputra"},{"name":"Dewi Sartika"},{"name":"Yoga Pratama"}],"github":"https://github.com/yogapratama/rare-disease-variant"},
+  {"group":"Kelompok 10","theme":"Machine Learning & Big Data dalam Biologi","title":"Machine Learning Classification of Plant Disease from Leaf Images Using Convolutional Neural Networks","members":[{"name":"Putri Handayani"},{"name":"Ahmad Fauzi"},{"name":"Siti Aminah"},{"name":"Rizki Ramadhan"},{"name":"Dian Saputra"}],"github":"https://github.com/diansaputra/plant-disease-cnn"},
+  {"group":"Kelompok 11","theme":"Machine Learning & Big Data dalam Biologi","title":"Single-Cell RNA Sequencing Analysis of Tumor Microenvironment in Colorectal Cancer","members":[{"name":"Rina Astuti"},{"name":"Budi Wijaya"},{"name":"Maya Fitri"},{"name":"Eko Saputra"},{"name":"Dewi Lestari"}],"github":"https://github.com/mayafitri/scRNA-colorectal"},
+  {"group":"Kelompok 12","theme":"Machine Learning & Big Data dalam Biologi","title":"CRISPR Off-Target Prediction Using Deep Learning","members":[{"name":"Andi Prasetyo"},{"name":"Siti Nurhaliza"},{"name":"Rizal Abdullah"},{"name":"Putri Wulandari"},{"name":"Fajar Setiawan"}],"github":"https://github.com/rizalabd/crispr-predict"},
+  {"group":"Kelompok 13","theme":"Machine Learning & Big Data dalam Biologi","title":"Genome-Wide Association Study for Rice Drought Tolerance","members":[{"name":"Hendra Wijaya"},{"name":"Rina Sari"},{"name":"Bayu Prasetyo"},{"name":"Dewi Handayani"},{"name":"Agus Setiawan"}],"github":"https://github.com/hendrawijaya/rice-gwas"},
+  {"group":"Kelompok 14","theme":"Machine Learning & Big Data dalam Biologi","title":"Metabolomic Profiling of Indonesian Traditional Medicinal Plants","members":[{"name":"Sari Dewi"},{"name":"Rizal Pratama"},{"name":"Lina Astuti"},{"name":"Fajar Wijaya"},{"name":"Maya Sari"}],"github":"https://github.com/mayasari/metabolomic-herbal"}
+];
+
+var t = 600;
+function fmtTime(mins) {
+  var h = String(Math.floor(mins / 60)).padStart(2, "0");
+  var m = String(mins % 60).padStart(2, "0");
+  return h + ":" + m;
+}
+
+var html = '<table class="table table-striped table-hover schedule-table">';
+html += '<thead><tr><th>Time</th><th>Group</th><th>Theme</th><th>Title</th><th>Members</th><th>GitHub</th></tr></thead>';
+html += '<tbody>';
+
+GROUPS.forEach(function(g) {
+  var start = fmtTime(t);
+  t += 15;
+  var end = fmtTime(t);
+  var title = g.title ? g.title.trim() : "(No title)";
+  var theme = g.theme ? g.theme.trim() : "";
+  var members = g.members ? g.members.map(function(m) { return m.name; }).join(", ") : "";
+  var github = g.github ? g.github.trim() : "";
+  html += '<tr>';
+  html += '<td>' + start + ' - ' + end + '</td>';
+  html += '<td>' + g.group + '</td>';
+  html += '<td><em>' + theme + '</em></td>';
+  html += '<td>' + title + '</td>';
+  html += '<td>' + members + '</td>';
+  if (github) {
+    html += '<td><a href="' + github + '" target="_blank" rel="noopener">Link</a></td>';
+  } else {
+    html += '<td></td>';
+  }
+  html += '</tr>';
+});
+
+html += '</tbody></table>';
+document.getElementById('schedule-table').innerHTML = html;
+</script>
+
+<style>
+.schedule-table th {
+  background: #2c3e50;
+  color: white;
+  padding: 12px 16px;
+  white-space: nowrap;
+}
+.schedule-table td {
+  padding: 10px 16px;
+  vertical-align: top;
+}
+.schedule-table tbody tr:nth-child(even) {
+  background: #f8f9fa;
+}
+.schedule-table tbody tr:hover {
+  background: #e9ecef;
+}
+.schedule-table td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+  color: #2c3e50;
+}
+.schedule-table td:nth-child(2) {
+  font-weight: 600;
+  color: #34495e;
+}
+.schedule-table td:nth-child(3) {
+  color: #7f8c8d;
+  font-style: italic;
+}
+.schedule-table td:nth-child(4) {
+  max-width: 400px;
+}
+.schedule-table td:nth-child(5) {
+  max-width: 300px;
+  color: #555;
+}
+</style>
+
+:::
 :::
