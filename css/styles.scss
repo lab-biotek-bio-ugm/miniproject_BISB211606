@@ -377,3 +377,41 @@ footer.footer .nav-footer, #quarto-header nav {
   font-size:1.3em; 
   font-weight:bold;
 }
+
+/* Schedule Table */
+.schedule-table th {
+  background: #2c3e50;
+  color: white;
+  padding: 12px 16px;
+  white-space: nowrap;
+}
+.schedule-table td {
+  padding: 10px 16px;
+  vertical-align: top;
+}
+.schedule-table tbody tr:nth-child(even) {
+  background: #f8f9fa;
+}
+.schedule-table tbody tr:hover {
+  background: #e9ecef;
+}
+.schedule-table td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+  color: #2c3e50;
+}
+.schedule-table td:nth-child(2) {
+  font-weight: 600;
+  color: #34495e;
+}
+.schedule-table td:nth-child(3) {
+  color: #7f8c8d;
+  font-style: italic;
+}
+.schedule-table td:nth-child(4) {
+  max-width: 400px;
+}
+.schedule-table td:nth-child(5) {
+  max-width: 300px;
+  color: #555;
+}
