@@ -1,0 +1,48 @@
+---
+pagetitle: "Committee members"
+---
+
+::: grid
+::: {#organizers_banner .g-col-12 .title}
+# Committee Members
+:::
+
+::: {.g-col-6 .text_block}
+
+### Organizing Committee
+
+This summer course is organized by the Department of Tropical Biology and the Department of Geological Engineering, Universitas Gadjah Mada (UGM). Located in the vibrant city of Yogyakarta, the university is internationally recognized for its contributions to biodiversity, environmental sustainability, geosciences, and actively engages in global collaborations and capacity-building initiatives.
+
+<small>
+**[UNIVERSITAS GADJAH MADA](https://ugm.ac.id/)**  
+**[Faculty of Biology](https://biologi.ugm.ac.id/en/)**  
+Jalan Teknika Selatan, Sekip Utara  
+Yogyakarta 55281, Indonesia  
+[oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
+
+#### Steering Committee
+- [Prof. Dr. Eko Agus Suyono, M.App.Sc.](https://acadstaff.ugm.ac.id/MTk3MTEyMTgxOTk3MDIx)
+
+#### Course Leadership
+- [Matin Nuhamunada, M.Sc., Ph.D.](https://www.matinnu.org/author/matin-nuhamunada/)
+- [Dr. Ir. Yan Restu Freski, M.Eng.](https://acadstaff.ugm.ac.id/Yan)
+
+#### Program Coordinators
+- [Dr. Eng. Thoriq Teja Samudra, M.Sc., Bio.Cur.](https://acadstaff.ugm.ac.id/thoriq.tsamudra)
+- [Mukhlish Jamal Musa Holle, MEnvSc. DPhil.](https://acadstaff.ugm.ac.id/Jamal)
+- [Nur Indah Septriani, M.Sc., Ph.D.](https://acadstaff.ugm.ac.id/nurindah)
+- [Dr. Mirza Hanif Al Falah, S.Si, M.Ling.](https://www.linkedin.com/in/mirza-hanif-al-falah/)
+
+#### Course Registration
+- Salwa Shabria Wafi, S.Tr.Li.
+
+#### Public Outreach
+- Anysah Nur Fauziah, S.Si.
+
+#### Course Administration and Finances
+- Annisa Mawarni, S.Si
+</small>
+<break></break>
+:::
+
+:::
