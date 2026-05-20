@@ -1,5 +1,10 @@
 ---
 pagetitle: "Committee members"
+
+listing:
+  - id: organizers
+    template: organizers.ejs
+    contents: organizers.yml
 ---
 
 ::: grid
@@ -9,8 +14,6 @@ pagetitle: "Committee members"
 
 ::: {.g-col-6 .text_block}
 
-### Organizing Committee
-
 This bioinformatics mini project conference is part of the undergraduate course Bioinformatics (BISB211606), organized by the Department of Tropical Biology, Faculty of Biology, Universitas Gadjah Mada (UGM).
 
 <small>
@@ -19,33 +22,13 @@ This bioinformatics mini project conference is part of the undergraduate course 
 Jalan Teknika Selatan, Sekip Utara  
 Yogyakarta 55281, Indonesia  
 [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
-
-#### Course Responsibles
-- Prof. Dra. Tuty Arisuryanti, M.Sc., Ph.D.
-- [Matin Nuhamunada, M.Sc., Ph.D.](https://www.matinnu.org/author/matin-nuhamunada/)
-- Dr. Dwi Sendi Priyono, M.Si.
-- Dr. Tri Rini Nuringtyas, M.Sc.
-- Arief Muammar, M.Sc.
-
-#### Teaching Assistants
-- Salman Ali Nazar
-- Alda Zaenida Nurul Raizma
-- Kyla Tattvara Faza Arumdapta
-- Winda Lutfiana Hafidz
-- Afra Majida Hariono
-- Nurul Istiqomah
-- Nirina Adelita Putri
-- Muhammad Meshal Ramadhayesa
-- Huriyah Winda Nabillah
-- Adelia Khairunnisa
-- Annisa Nur Baety
-- Feliciana Clara Henderison
-- Achmad Nadhmi Arfa
-
 </small>
 
 <break></break>
 
+:::
+
+::: {#organizers .g-col-12}
 :::
 
 <break></break>

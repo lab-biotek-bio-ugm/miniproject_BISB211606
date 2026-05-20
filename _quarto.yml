@@ -20,7 +20,7 @@ website:
         text: Day 1
       - href: day2.qmd
         text: Day 2
-      - href: organizers.qmd
+      - href: organizers/
         text: Organizers
       - href: contact.qmd
         text: Contact
