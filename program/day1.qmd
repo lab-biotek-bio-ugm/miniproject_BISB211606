@@ -30,15 +30,15 @@ Monday, 25 May 2026 | 10:00 - 17:00 WIB
 <div id="schedule-iup"></div>
 :::
 
-<script src="/js/schedule.js"></script>
+<script src="../js/schedule.js"></script>
 
 <script>
 const SCHEDULE_REGULER = {
-  files: ["/assets/reguler-senin.json"]
+  files: ["../assets/reguler-senin.json"]
 };
 
 const SCHEDULE_IUP = {
-  files: ["/assets/iup.json"]
+  files: ["../assets/iup.json"]
 };
 
 renderSchedule("schedule-regular", SCHEDULE_REGULER);

@@ -29,15 +29,15 @@ Tuesday, 26 May 2026| 13:00 - 16:45 WIB
 <div id="schedule-afternoon"></div>
 :::
 
-<script src="/js/schedule.js"></script>
+<script src="../js/schedule.js"></script>
 
 <script>
 const SCHEDULE_MORNING = {
-  files: ["/assets/reguler-selasa-morning.json"]
+  files: ["../assets/reguler-selasa-morning.json"]
 };
 
 const SCHEDULE_AFTERNOON = {
-  files: ["/assets/reguler-selasa-afternoon.json"]
+  files: ["../assets/reguler-selasa-afternoon.json"]
 };
 
 renderSchedule("schedule-morning", SCHEDULE_MORNING);

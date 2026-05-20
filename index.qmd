@@ -38,12 +38,12 @@ Participants will gain experience in communicating scientific findings in a prof
 :::
 
 ::: {.g-col-6 .img_margin}
-![](/img/poster_extension.jpeg){.img_block width="100%"}
+![](img/poster_extension.jpeg){.img_block width="100%"}
 
 ::: {.text-center}
-[Guest Lectures](/speakers){.btn .btn-primary target="_blank"}
+[Guest Lectures](speakers/){.btn .btn-primary target="_blank"}
 
-[Program Schedule](/program/schedule.html){.btn .btn-primary target="_blank"}
+[Program Schedule](program/schedule.html){.btn .btn-primary target="_blank"}
 
 :::
 
