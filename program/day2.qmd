@@ -5,23 +5,43 @@ pagetitle: "Day 2 Schedule"
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
 # Day 2 Student Presenters
-Tuesday, 26 May 2026 | 13:00 - 16:45 WIB  
+Tuesday| 13:00 - 18:00 WIB  
 :::
 
 ::: {.g-col-12 .full_text_block}
-<div id="schedule-table"></div>
+::: {#morning_session .g-col-12}
+## 3rd Session | 13:00 - 15:00 WIB | @Ruang Kuliah IVA
+<div id="schedule-morning"></div>
+:::
 
-<script src="../../js/schedule.js"></script>
+::: {#break_session .g-col-12}
+## Guest Lecture 2 — 15:00 - 16:00 WIB | @Auditorium Biologi Tropika
+
+| Time | Event | Title | Speakers |
+|---|----|-----------|----------|
+| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biolog | Zhijie Yang |
+: {.striped .hover}
+
+:::
+
+::: {#afternoon_session .g-col-12}
+## 4th Session | 16:00 - 18:00 WIB | @Auditorium Biologi Tropika
+<div id="schedule-afternoon"></div>
+:::
+
+<script src="/js/schedule.js"></script>
 
 <script>
-const SCHEDULE = {
-  startHour: 13,
-  startMinute: 0,
-  slotMinutes: 15,
-  files: ["../../assets/reguler-selasa.json"]
+const SCHEDULE_MORNING = {
+  files: ["/assets/reguler-selasa-morning.json"]
 };
 
-renderSchedule("schedule-table", SCHEDULE);
+const SCHEDULE_AFTERNOON = {
+  files: ["/assets/reguler-selasa-afternoon.json"]
+};
+
+renderSchedule("schedule-morning", SCHEDULE_MORNING);
+renderSchedule("schedule-afternoon", SCHEDULE_AFTERNOON);
 </script>
 
 :::

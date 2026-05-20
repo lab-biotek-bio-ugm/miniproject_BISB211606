@@ -1,0 +1,211 @@
+{
+  "sessions": {
+    "start": 780,
+    "duration": 15
+  },
+  "slots": [
+    {
+      "no": 15,
+      "group": "Reguler 15",
+      "theme": "",
+      "title": "",
+      "members": [],
+      "github": ""
+    },
+    {
+      "no": 16,
+      "group": "Reguler 16",
+      "theme": "Machine Learning & Big Data dalam Biologi",
+      "title": "",
+      "members": [
+        {
+          "name": "Ahmed Mortezza",
+          "nim": ""
+        },
+        {
+          "name": "Nauval Rajwaa Raysendria",
+          "nim": ""
+        },
+        {
+          "name": "Yesha Fayyaza Firdausi",
+          "nim": ""
+        },
+        {
+          "name": "Geraldine Yara Amritarashmi",
+          "nim": ""
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 17,
+      "group": "Reguler 17",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Studi In Silico Potensi Senyawa Curcumin dan Quercetin sebagai Inhibitor Nucleocapsid 5E04 Protein pada Hantavirus menggunakan Molecular Docking",
+      "members": [
+        {
+          "name": "Fatimah Azzahra A",
+          "nim": ""
+        },
+        {
+          "name": "Fanisa Esa Alfira",
+          "nim": "23/517678/BI/11267"
+        },
+        {
+          "name": "Karina Safitri",
+          "nim": "23/518247/BI/11283"
+        },
+        {
+          "name": "Dwinda Jasti Nuraini",
+          "nim": "23/515625/BI/11230"
+        },
+        {
+          "name": "Miftah Fauziyah",
+          "nim": "23/521200/BI/11342"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 18,
+      "group": "Reguler 18",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "",
+      "members": [
+        {
+          "name": "Amelia Ikhsanti",
+          "nim": "23/512700/BI/11171"
+        },
+        {
+          "name": "Anisah Alifia Syarafina",
+          "nim": "23/516838/BI/11250"
+        },
+        {
+          "name": "Aura Prista Rukmana",
+          "nim": "23/518778/BI/11298"
+        },
+        {
+          "name": "Elisabet Lintang Permata",
+          "nim": "23/518792/BI/11299"
+        },
+        {
+          "name": "Adella Rivana Vika",
+          "nim": "23/522317/BI/11367"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 19,
+      "group": "Reguler 19",
+      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
+      "title": "Analisis Polimorfisme pada Zea Mays Menggunakan Software Geneious",
+      "members": [
+        {
+          "name": "Fatimah Zahra",
+          "nim": ""
+        },
+        {
+          "name": "Priza Aqeela Pasha",
+          "nim": "23/517855/BI/11272"
+        },
+        {
+          "name": "Stanisius Ken Sidharta",
+          "nim": "23/518963/BI/11303"
+        },
+        {
+          "name": "Caitlyn Winata",
+          "nim": "23/512874/BI/11174"
+        },
+        {
+          "name": "Casey Nathania Foekri",
+          "nim": "23/518454/BI/11290"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 20,
+      "group": "Reguler 20",
+      "theme": "",
+      "title": "",
+      "members": [
+        {
+          "name": "Ardelia Shafaa Nabiilah",
+          "nim": "23/514044/BI/11188"
+        },
+        {
+          "name": "Okcarinda Wahyu Romadani",
+          "nim": "23/514464/BBI/11193"
+        },
+        {
+          "name": "Audrey Azalia Jovita",
+          "nim": "23/515293/BI/11223"
+        },
+        {
+          "name": "Rofina Rima Permatasari",
+          "nim": "23/517792/BI/11270"
+        },
+        {
+          "name": "Hasna Fika Nafisa",
+          "nim": "23/516976/BI/11253"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 21,
+      "group": "Reguler 21",
+      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
+      "title": "Analisis Ekspresi Gen Diferensial dan Enrichment Pathway pada Dataset Kanker Payudara GSE15852",
+      "members": [
+        {
+          "name": "Pamastadewi Pryankha Hijrianto",
+          "nim": "23/513075/BI/11175"
+        },
+        {
+          "name": "Karina Raihana Salsabila",
+          "nim": "23/513869/BI/11187"
+        },
+        {
+          "name": "Tsaqifa Zuhayra Emery Bagus",
+          "nim": "23/516561/BI/11248"
+        },
+        {
+          "name": "Widya Arum Prastanti",
+          "nim": "23/514552/BI/11194"
+        },
+        {
+          "name": "Aan Nur Risla Wardana",
+          "nim": "23/519008/BI/11305"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 22,
+      "group": "Reguler 22",
+      "theme": "Machine Learning & Big Data dalam Biologi",
+      "title": "Analisis Variasi Morfologi Wajah Manusia Antar Populasi Menggunakan Face Recognition Berbasis Machine Learning",
+      "members": [
+        {
+          "name": "Dinda Luthfiani Nurul Ulya",
+          "nim": "23/514705/BI/11203"
+        },
+        {
+          "name": "Nadhifa Aghmia Zain",
+          "nim": "23/521725/BI/11353"
+        },
+        {
+          "name": "Nazwa Nur Sahara",
+          "nim": "23/514177/BI/11190"
+        },
+        {
+          "name": "Salma Farah Yumna",
+          "nim": "23/515006/BI/11212"
+        }
+      ],
+      "github": ""
+    }
+  ]
+}

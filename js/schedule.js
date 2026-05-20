@@ -12,16 +12,13 @@ function renderSchedule(containerId, config) {
   }
 
   function render(data) {
-    let nextTime = config.startHour * 60 + config.startMinute;
+    let nextTime = data.sessions.start;
     let html = `<table class="table table-striped table-hover schedule-table">`;
     html += `<thead><tr><th>Time</th><th>Group</th><th>Theme</th><th>Title</th><th>Members</th><th>GitHub</th></tr></thead>`;
     html += `<tbody>`;
-    data.forEach(g => {
-      const startMin = g.start !== undefined ? g.start : nextTime;
-      const duration = g.duration || config.slotMinutes;
-      if (g.start === undefined) {
-        nextTime += duration;
-      }
+    data.slots.forEach(g => {
+      const duration = g.duration || data.sessions.duration;
+      const startMin = nextTime;
       const endMin = startMin + duration;
       const start = fmtTime(startMin);
       const end = fmtTime(endMin);
@@ -37,15 +34,19 @@ function renderSchedule(containerId, config) {
         <td>${members}</td>
         <td>${github ? '<a href="' + github + '" target="_blank" rel="noopener">Link</a>' : ""}</td>
       </tr>`;
+      nextTime += duration;
     });
     html += `</tbody></table>`;
     container.innerHTML = html;
   }
 
   Promise.all(config.files.map(url => fetch(url).then(r => r.json()))).then(files => {
-    const allGroups = files.flat();
-    console.log("Loaded", allGroups.length, "groups");
-    render(allGroups);
+    const allSlots = files.flatMap(f => f.slots);
+    console.log("Loaded", allSlots.length, "slots");
+    files.forEach(f => {
+      console.log(`  ${config.files[files.indexOf(f)]}: start=${f.sessions.start}, duration=${f.sessions.duration}, ${f.slots.length} slots`);
+    });
+    files.forEach(f => render(f));
   }).catch(err => {
     console.error("Failed to load JSON:", err);
     container.innerHTML = "<p style='color:red'>Error loading schedule. Make sure you're viewing this via an HTTP server (e.g. quarto preview), not file://.</p>";
