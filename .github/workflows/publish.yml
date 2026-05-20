@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: quarto Render and deploy rendered html to github pages
+name: Deploy Quarto site to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -8,6 +8,12 @@ on:
     paths:
       - '**.qmd'
       - '**.md'
+      - '**.yml'
+      - '**.json'
+      - 'assets/**'
+      - 'js/**'
+      - 'css/**'
+      - '.github/workflows/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,34 +41,10 @@ jobs:
         uses: actions/checkout@v6
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      - name: Install TinyTeX
-        run: quarto install tinytex
-      - name: Render Quarto Project Profile Def
+      - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
-        env:
-          QUARTO_PROFILE: def
         with:
-          to: html 
-      - name: Render Quarto Project Profile id
-        uses: quarto-dev/quarto-actions/render@v2
-        env:
-          QUARTO_PROFILE: id
-        with:
-          to: html 
-      - name: Render Quarto Project Profile en
-        uses: quarto-dev/quarto-actions/render@v2
-        env:
-          QUARTO_PROFILE: en
-        with:
-          to: html 
-      - name: Render
-        uses: quarto-dev/quarto-actions/render@v2
-      - name: Remove functions folder from id and en
-        run: |
-          rm -rf _site/id/functions
-          rm -rf _site/en/functions
-          rm -rf _site/id/_site
-          rm -rf _site/en/_site
+          to: html
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
