@@ -6,7 +6,7 @@ project:
     browser: false
 
 website:
-  title: "Bioinformatics Miniproject Showcase"
+  title: "Bioinformatics Miniproject Conference"
   sidebar: false
   navbar:
     background: light

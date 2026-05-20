@@ -11,7 +11,7 @@ pagetitle: "Committee members"
 
 ### Organizing Committee
 
-This summer course is organized by the Department of Tropical Biology and the Department of Geological Engineering, Universitas Gadjah Mada (UGM). Located in the vibrant city of Yogyakarta, the university is internationally recognized for its contributions to biodiversity, environmental sustainability, geosciences, and actively engages in global collaborations and capacity-building initiatives.
+This bioinformatics mini project conference is part of the undergraduate course Bioinformatics (BISB211606), organized by the Department of Tropical Biology, Faculty of Biology, Universitas Gadjah Mada (UGM).
 
 <small>
 **[UNIVERSITAS GADJAH MADA](https://ugm.ac.id/)**  
@@ -20,29 +20,33 @@ Jalan Teknika Selatan, Sekip Utara
 Yogyakarta 55281, Indonesia  
 [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
 
-#### Steering Committee
-- [Prof. Dr. Eko Agus Suyono, M.App.Sc.](https://acadstaff.ugm.ac.id/MTk3MTEyMTgxOTk3MDIx)
-
-#### Course Leadership
+#### Course Responsibles
+- Prof. Dra. Tuty Arisuryanti, M.Sc., Ph.D.
 - [Matin Nuhamunada, M.Sc., Ph.D.](https://www.matinnu.org/author/matin-nuhamunada/)
-- [Dr. Ir. Yan Restu Freski, M.Eng.](https://acadstaff.ugm.ac.id/Yan)
+- Dr. Dwi Sendi Priyono, M.Si.
+- Dr. Tri Rini Nuringtyas, M.Sc.
+- Arief Muammar, M.Sc.
 
-#### Program Coordinators
-- [Dr. Eng. Thoriq Teja Samudra, M.Sc., Bio.Cur.](https://acadstaff.ugm.ac.id/thoriq.tsamudra)
-- [Mukhlish Jamal Musa Holle, MEnvSc. DPhil.](https://acadstaff.ugm.ac.id/Jamal)
-- [Nur Indah Septriani, M.Sc., Ph.D.](https://acadstaff.ugm.ac.id/nurindah)
-- [Dr. Mirza Hanif Al Falah, S.Si, M.Ling.](https://www.linkedin.com/in/mirza-hanif-al-falah/)
+#### Teaching Assistants
+- Salman Ali Nazar
+- Alda Zaenida Nurul Raizma
+- Kyla Tattvara Faza Arumdapta
+- Winda Lutfiana Hafidz
+- Afra Majida Hariono
+- Nurul Istiqomah
+- Nirina Adelita Putri
+- Muhammad Meshal Ramadhayesa
+- Huriyah Winda Nabillah
+- Adelia Khairunnisa
+- Annisa Nur Baety
+- Feliciana Clara Henderison
+- Achmad Nadhmi Arfa
 
-#### Course Registration
-- Salwa Shabria Wafi, S.Tr.Li.
-
-#### Public Outreach
-- Anysah Nur Fauziah, S.Si.
-
-#### Course Administration and Finances
-- Annisa Mawarni, S.Si
 </small>
+
 <break></break>
+
 :::
 
+<break></break>
 :::

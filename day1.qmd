@@ -1,6 +1,6 @@
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Speakers
+# Day 1 Student Presenters
 :::
 
 <div></div>
