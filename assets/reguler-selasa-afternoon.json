@@ -5,122 +5,6 @@
   },
   "slots": [
     {
-      "no": 23,
-      "group": "Reguler 23",
-      "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "Deteksi dan Analisis Filogenetik Kontaminasi Gammacoronavirus pada Sampel Kelelawar Menggunakan Nested PCR Gen RdRp dan Oxford Nanopore Sequencing",
-      "members": [
-        {
-          "name": "Agnesia Elovani",
-          "nim": ""
-        },
-        {
-          "name": "Citra Nur Rohmatun",
-          "nim": "23/520732/BI/11330"
-        },
-        {
-          "name": "Calvin Wijaya Marbun",
-          "nim": "23/521401/BI/11345"
-        },
-        {
-          "name": "Amila Rahima Husna",
-          "nim": "22/504420/BI/11120"
-        },
-        {
-          "name": "Gadiza Larasayu Ginantika",
-          "nim": "23/521879/BI/11360"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 24,
-      "group": "Reguler 24",
-      "theme": "Bioinformatika Pertanian & Peternakan",
-      "title": "",
-      "members": [
-        {
-          "name": "Arrum Minafaka Quthrotun Nada",
-          "nim": "23/515372/BI/11225"
-        },
-        {
-          "name": "Aulia Annisa Azzahra",
-          "nim": "23/520592/BI/11325"
-        },
-        {
-          "name": "Lintang Permatasari",
-          "nim": "23/515270/BI/11222"
-        },
-        {
-          "name": "Angga Firza Pratama",
-          "nim": "23/517433/BI/11258"
-        },
-        {
-          "name": "Adika Pramudya Nugraha",
-          "nim": "23/516889/BI/11252"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 25,
-      "group": "Reguler 25",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
-      "members": [
-        {
-          "name": "Regina Siska EN",
-          "nim": "23/520773/BI/11332"
-        },
-        {
-          "name": "Nayla Dwiputri Adelis",
-          "nim": "23/520859/BI/11334"
-        },
-        {
-          "name": "Sandra Dewi Ayu Saputri",
-          "nim": ""
-        },
-        {
-          "name": "Nabila Latifa Riftyana",
-          "nim": "23/517697/BI/11268"
-        },
-        {
-          "name": "Nayla Rahmah Khairunnisa",
-          "nim": "23/514995/BI/11211"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 26,
-      "group": "Reguler 26",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "Molecular Docking Senyawa Fitokimia Lokal Indonesia terhadap CDK1 sebagai Target Terapi Kanker Serviks Menggunakan GNINA",
-      "members": [
-        {
-          "name": "Elsa Sabrina",
-          "nim": "23/521677/BI/11351"
-        },
-        {
-          "name": "Alifia Jasmine Thanaya Lahadina",
-          "nim": "23/519061/BI/11308"
-        },
-        {
-          "name": "Eldira Dinar Putri Anjani",
-          "nim": "23/521828/BI/11358"
-        },
-        {
-          "name": "Arnetta Tiara",
-          "nim": "23/521810/BI/11357"
-        },
-        {
-          "name": "Birulangit Cakrawala D",
-          "nim": "23/520213/BI/11321"
-        }
-      ],
-      "github": ""
-    },
-    {
       "no": 27,
       "group": "Reguler 27",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
@@ -164,14 +48,6 @@
           "nim": "23/523176/BI/11383"
         }
       ],
-      "github": ""
-    },
-    {
-      "no": 29,
-      "group": "Reguler 29",
-      "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "",
-      "members": [],
       "github": ""
     },
     {

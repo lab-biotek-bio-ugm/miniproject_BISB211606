@@ -4,13 +4,13 @@ pagetitle: "Day 2 Schedule"
 
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Day 2 Student Presenters
-Tuesday| 13:00 - 18:00 WIB  
+# Day 2 Schedule
+Tuesday| 13:00 - 16:45 WIB  
 :::
 
 ::: {.g-col-12 .full_text_block}
 ::: {#morning_session .g-col-12}
-## 3rd Session | 13:00 - 15:00 WIB | @Ruang Kuliah IVA
+## Regular Session 2 | 13:00 - 15:00 WIB | @Ruang Kuliah IVA
 <div id="schedule-morning"></div>
 :::
 
@@ -19,13 +19,13 @@ Tuesday| 13:00 - 18:00 WIB
 
 | Time | Event | Title | Speakers |
 |---|----|-----------|----------|
-| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biolog | Zhijie Yang |
-: {.striped .hover}
+| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | Zhijie Yang |
+: {.table .table-striped .table-hover .schedule-table}
 
 :::
 
 ::: {#afternoon_session .g-col-12}
-## 4th Session | 16:00 - 18:00 WIB | @Auditorium Biologi Tropika
+## Regular Session 3 | 16:00 - 16:45 WIB | @Auditorium Biologi Tropika
 <div id="schedule-afternoon"></div>
 :::
 

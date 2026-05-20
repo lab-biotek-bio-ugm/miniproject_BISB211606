@@ -4,8 +4,8 @@ pagetitle: "Day 1 Schedule"
 
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Day 1 Student Presenters
-Monday, 25 May 2026 | 10:30 - 16:45 WIB  
+# Day 1 Schedule
+Monday, 25 May 2026 | 10:00 - 17:00 WIB  
 :::
 
 ::: {.g-col-12 .full_text_block}
@@ -16,18 +16,17 @@ Monday, 25 May 2026 | 10:30 - 16:45 WIB
 |---|----|-----------|----------|
 | 10.00 - 10.30 | Opening Remarks | | Prof. Dra. Tuty Arisuryanti, M.Sc., Ph.D. (Course Responsible) |
 | 10.30 - 11.30 | Guest Lecture 1 | Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems | Serge Andrefouet |
-| 11.30 - 12.00 | Break           | | |
-: {.striped .hover}
+: {.table .table-striped .table-hover .schedule-table}
 
 :::
 
 ::: {#regular_session .g-col-12}
-## Regular Session | 12:00 - 15:00 WIB | @Auditorium Biologi Tropika
+## Regular Session 1 | 12:00 - 16:30 WIB | @Auditorium Biologi Tropika
 <div id="schedule-regular"></div>
 :::
 
 ::: {#iup_session .g-col-12}
-## IUP Session | 15:30 - 16:00 WIB | @Auditorium Biologi Tropika
+## IUP Session | 16:30 - 17:00 WIB | @Auditorium Biologi Tropika
 <div id="schedule-iup"></div>
 :::
 
