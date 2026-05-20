@@ -7,6 +7,9 @@
 							
               <p><strong> <%= item.name %> </strong> <br/>
               <%= item.affiliation %> <br/>
+              <strong> <%= item.title %> </strong><br/>
+              <em> <%= item.time %> </em><br/>
+              <% if (item.registration) { %><a href="<%- item.registration %>" target="_blank">Register Here</a><br/> <% } %>
               </p>
               <ul style="margin-top:0;margin-bottom:0.035rem;padding-left:0;display:inline-block;">
                   <li class="socialIcons" style="list-style:none;margin:0;padding:0;display:inline-flex;align-items:center;gap:8px;">

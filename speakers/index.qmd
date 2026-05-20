@@ -10,6 +10,7 @@ listing:
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
 # Speakers
+The student project conference will include lectures from guest researchers
 :::
 
 ::: {#speakers .g-col-12}
