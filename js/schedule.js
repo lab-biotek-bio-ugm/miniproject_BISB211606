@@ -1,6 +1,9 @@
 function renderSchedule(containerId, config) {
   const container = document.getElementById(containerId);
-  let t = config.startHour * 60 + config.startMinute;
+  if (!container) {
+    console.error("Container #" + containerId + " not found in DOM");
+    return;
+  }
 
   function fmtTime(minutes) {
     const h = String(Math.floor(minutes / 60)).padStart(2, "0");
@@ -9,13 +12,19 @@ function renderSchedule(containerId, config) {
   }
 
   function render(data) {
+    let nextTime = config.startHour * 60 + config.startMinute;
     let html = `<table class="table table-striped table-hover schedule-table">`;
     html += `<thead><tr><th>Time</th><th>Group</th><th>Theme</th><th>Title</th><th>Members</th><th>GitHub</th></tr></thead>`;
     html += `<tbody>`;
     data.forEach(g => {
-      const start = fmtTime(t);
-      t += config.slotMinutes;
-      const end = fmtTime(t);
+      const startMin = g.start !== undefined ? g.start : nextTime;
+      const duration = g.duration || config.slotMinutes;
+      if (g.start === undefined) {
+        nextTime += duration;
+      }
+      const endMin = startMin + duration;
+      const start = fmtTime(startMin);
+      const end = fmtTime(endMin);
       const title = g.title?.trim() || "(No title)";
       const theme = g.theme?.trim() || "";
       const members = g.members?.map(m => m.name).join(", ") || "";
@@ -39,6 +48,10 @@ function renderSchedule(containerId, config) {
     render(allGroups);
   }).catch(err => {
     console.error("Failed to load JSON:", err);
-    document.getElementById("schedule-table").innerHTML = "<p style='color:red'>Error loading schedule. Make sure you're viewing this via an HTTP server (e.g. quarto preview), not file://.</p>";
+    container.innerHTML = "<p style='color:red'>Error loading schedule. Make sure you're viewing this via an HTTP server (e.g. quarto preview), not file://.</p>";
   });
 }
+
+document.addEventListener("DOMContentLoaded", function() {
+  console.log("DOM ready, schedule.js loaded");
+});

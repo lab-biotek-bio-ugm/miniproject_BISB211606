@@ -9,19 +9,35 @@ Monday, 25 May 2026 | 11:30 - 16:45 WIB
 :::
 
 ::: {.g-col-12 .full_text_block}
-<div id="schedule-table"></div>
+::: {#regular_session .g-col-12}
+## Regular Session — Monday, 25 May 2026 | 11:30 - 15:00 WIB
+<div id="schedule-regular"></div>
+:::
+
+::: {#iup_session .g-col-12}
+## IUP Session — Monday, 25 May 2026 | 15:00 - 15:30 WIB
+<div id="schedule-iup"></div>
+:::
 
 <script src="../../js/schedule.js"></script>
 
 <script>
-const SCHEDULE = {
-  startHour: 13,
-  startMinute: 0,
+const SCHEDULE_REGULER = {
+  startHour: 11,
+  startMinute: 30,
   slotMinutes: 15,
-  files: ["../assets/reguler-senin.json"]
+  files: ["../../assets/reguler-senin.json"]
 };
 
-renderSchedule("schedule-table", SCHEDULE);
+const SCHEDULE_IUP = {
+  startHour: 15,
+  startMinute: 0,
+  slotMinutes: 15,
+  files: ["../../assets/iup.json"]
+};
+
+renderSchedule("schedule-regular", SCHEDULE_REGULER);
+renderSchedule("schedule-iup", SCHEDULE_IUP);
 </script>
 
 :::

@@ -6,6 +6,7 @@ project:
     browser: false
   resources:
   - assets/
+  - js/
 
 website:
   title: "Bioinformatics Mini Project Conference"

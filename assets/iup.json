@@ -5,12 +5,26 @@
     "theme": "Machine Learning & Big Data dalam Biologi",
     "title": "WBC Numeration Using Image Recognition",
     "members": [
-      {"name": "Salvana", "nim": ""},
-      {"name": "Rizal", "nim": ""},
-      {"name": "Sebayang", "nim": ""},
-      {"name": "Risqa", "nim": ""}
+      {
+        "name": "Salvana",
+        "nim": ""
+      },
+      {
+        "name": "Rizal",
+        "nim": ""
+      },
+      {
+        "name": "Sebayang",
+        "nim": ""
+      },
+      {
+        "name": "Risqa",
+        "nim": ""
+      }
     ],
-    "github": ""
+    "github": "",
+    "start": 900,
+    "duration": 15
   },
   {
     "no": 2,
@@ -18,10 +32,21 @@
     "theme": "Bioinformatika Medis / Klinis",
     "title": "Network pharmacology of Alzheimer's disease and molecular docking of targeted proteins",
     "members": [
-      {"name": "Arista", "nim": ""},
-      {"name": "Faizal", "nim": ""},
-      {"name": "Shainna", "nim": ""}
+      {
+        "name": "Arista",
+        "nim": ""
+      },
+      {
+        "name": "Faizal",
+        "nim": ""
+      },
+      {
+        "name": "Shainna",
+        "nim": ""
+      }
     ],
-    "github": ""
+    "github": "",
+    "start": 915,
+    "duration": 15
   }
 ]
