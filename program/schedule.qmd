@@ -16,7 +16,7 @@ pagetitle: "Main Schedule"
 | 10.00 - 10.30 | Opening Remarks | | Prof. Dra. Tuty Arisuryanti, M.Sc., Ph.D. |
 | 10.30 - 11.30 | Guest Lecture 1 | Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems | Serge Andrefouet |
 | 11.30 - 12.00 | Break | | |
-| 12.00 - 15.00 | Regular Session 1 | 14 Student Presentations | — |
+| 12.00 - 15.00 | Regular Session 1 | 19 Student Presentations | — |
 | 16.30 - 17.00 | IUP Session | 2 Student Presentations | — |
 : {.table .table-striped .table-hover .schedule-table}
 
@@ -24,9 +24,9 @@ pagetitle: "Main Schedule"
 
 | Time | Event | Title | Speakers |
 |---|---|---|---|
-| 13.00 - 15.00 | Regular Session 2 | 8 Student Presentations | — |
+| 13.00 - 15.00 | Regular Session 2 | 7 Student Presentations | — |
 | 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | Zhijie Yang |
-| 16.00 - 16:45 | Regular Session 3 | 8 Student Presentations | — |
+| 16.00 - 16:45 | Regular Session 3 | 3 Student Presentations | — |
 : {.table .table-striped .table-hover .schedule-table}
 
 :::
