@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 4200
+    browser: false
+
+website:
+  title: "Bioinformatics Miniproject Showcase"
+  sidebar: false
+  navbar:
+    background: light
+    pinned: false
+    right:
+      - href: index.qmd
+        text: Home
+      - href: speakers/
+        text: Speakers
+      - href: day1.qmd
+        text: Day 1
+      - href: day2.qmd
+        text: Day 2
+      - href: organizers.qmd
+        text: Organizers
+      - href: contact.qmd
+        text: Contact
+  page-footer: 
+    left: |
+
+      ::: {.column width="100%"}
+      ![](/img/faculty_biology_ugm.png){fig-align="left" style="max-width: 50%; margin-right: 10px; max-height: 50px;"}
+      :::
+    right: 
+      - icon: envelope
+        href: mailto:matin_nuhamunada@ugm.ac.id
+
+format:
+  html:
+    theme: 
+      light: [cosmo, css/styles.scss]
+    page-layout: custom
+    toc: false
+
+editor: visual
+

@@ -1,0 +1,61 @@
+---
+title: ""
+format:
+  html:
+    include-after-body:
+      - js/countdown.js
+      
+listing:
+  - id: countdown
+    template: countdown.ejs
+    contents: 
+      - datetime: May 25, 2026 23:59:00
+---
+
+::: grid
+::: {#banner_small .g-col-12}
+#### BISB211600 2025/2026
+## Mini Project Showcase
+
+#### 25-26 May 2026{style="max-width: fit-content; max-width: -moz-fit-content;"}
+
+#### @ Faculty of Biology, Universitas Gadjah Mada
+
+[👉 Registration](/register.html#indonesian-participants){.btn .btn-primary target="_blank"}
+
+:::
+
+::: {#countdown .g-col-12}
+:::
+
+::: {.g-col-6 .text_block}
+### About the BISB211600 Mini Project Showcase
+
+This mini project showcase is organized by students enrolled in **BISB211600 (Bioinformatics)** at Universitas Gadjah Mada. The event highlights student research through **flash talks** and a **mini poster session** modeled after a conference, giving participants an opportunity to present their projects and discuss results with peers and faculty.
+
+The showcase brings together bioinformatics students to share insights from data-driven projects, from computational analysis to biological interpretation. In addition to student presentations, the program includes **guest lectures from invited speakers** who will offer expert perspectives on bioinformatics research and career pathways.
+
+Participants will gain experience in communicating scientific findings in a professional format, with a focus on project storytelling, visual presentation, and collaborative discussion. The showcase is ideal for students and early-career researchers interested in bioinformatics, genomics, and applied data science.
+
+### Why you should join this showcase?
+
+This summer course bridges the gap between field research and climate action by equipping the next generation with the data literacy needed to transform complex biodiversity datasets into impactful conservation policies. 
+
+This summer course aims to:
+
+1. Develop **data literacy** for students, biology researchers, and biodiversity practitioners 
+2. Build participant’s capacity in **interpreting biodiversity** data as the basis for **sustainable policy practices**
+
+By integrating genomic and spatial data, the course empowers participants to provide the evidence-based insights essential for mitigating climate change and securing sustainable development in the ASEAN region.
+:::
+
+::: {.g-col-6 .img_margin}
+![](/img/poster_extension.jpeg){.img_block width="100%"}
+
+::: {.text-center}
+[👉 Main Program](/program/schedule/){.btn .btn-primary target="_blank"}
+:::
+<break></break>
+:::
+<break></break>
+:::
