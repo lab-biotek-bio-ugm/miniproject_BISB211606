@@ -10,7 +10,7 @@ pagetitle: "Contact us"
 ::: {.g-col-6 .text_block}
 ### Contact Us    
 
-For inquiries regarding our programs, collaborations, or any additional information, please feel free to reach out to us via email at [admin@iscbiotrop.org](mailto:admin@iscbiotrop.org) or [oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id). Our team at the Office of International Affairs, Faculty of Biology, is happy to assist prospective participants, partners, and visitors with any questions you may have.
+For inquiries regarding our programs, collaborations, or any additional information, please feel free to reach out to us via email at [matin_nuhamunada@ugm.ac.id](mailto:matin_nuhamunada@ugm.ac.id).
 
 <small>
 **[UNIVERSITAS GADJAH MADA](https://ugm.ac.id/)**  
@@ -20,7 +20,13 @@ Yogyakarta 55281, Indonesia
 </small>
 :::
 
-::: g-col-6
-![](/img/field-sampling2.jpg){.img_block width="100%"}
+::: {.g-col-6 .img_margin}
+<div style="margin: 1rem 0;">
+<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+   src="https://www.openstreetmap.org/export/embed.html?bbox=110.3749%2C-7.7671%2C110.3779%2C-7.7661&layer=mapnik&marker=-7.766606%2C110.376385"></iframe>
+ <p><a href="https://www.openstreetmap.org/#map=19/-7.766606/110.376385" target="_blank" rel="noopener">View a larger map</a></p>
+</div>
 :::
+
+<div></div>
 :::

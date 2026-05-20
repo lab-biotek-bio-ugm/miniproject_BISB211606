@@ -14,14 +14,12 @@ listing:
 
 ::: grid
 ::: {#banner_small .g-col-12}
-#### BISB211600 2025/2026
-## Mini Project Showcase
+#### BISB211600 (2025/2026)
+## Bioinformatics Mini Project Conference
 
-#### 25-26 May 2026{style="max-width: fit-content; max-width: -moz-fit-content;"}
+### 25-26 May 2026{style="max-width: fit-content; max-width: -moz-fit-content;"}
 
 #### @ Faculty of Biology, Universitas Gadjah Mada
-
-[👉 Registration](/register.html#indonesian-participants){.btn .btn-primary target="_blank"}
 
 :::
 
@@ -37,25 +35,18 @@ The showcase brings together bioinformatics students to share insights from data
 
 Participants will gain experience in communicating scientific findings in a professional format, with a focus on project storytelling, visual presentation, and collaborative discussion. The showcase is ideal for students and early-career researchers interested in bioinformatics, genomics, and applied data science.
 
-### Why you should join this showcase?
-
-This summer course bridges the gap between field research and climate action by equipping the next generation with the data literacy needed to transform complex biodiversity datasets into impactful conservation policies. 
-
-This summer course aims to:
-
-1. Develop **data literacy** for students, biology researchers, and biodiversity practitioners 
-2. Build participant’s capacity in **interpreting biodiversity** data as the basis for **sustainable policy practices**
-
-By integrating genomic and spatial data, the course empowers participants to provide the evidence-based insights essential for mitigating climate change and securing sustainable development in the ASEAN region.
 :::
 
 ::: {.g-col-6 .img_margin}
 ![](/img/poster_extension.jpeg){.img_block width="100%"}
 
 ::: {.text-center}
-[👉 Main Program](/program/schedule/){.btn .btn-primary target="_blank"}
+[Guest Lectures](/speakers){.btn .btn-primary target="_blank"}
+
+[Program Schedule](/program/schedule.html){.btn .btn-primary target="_blank"}
+
 :::
-<break></break>
+
 :::
-<break></break>
+<div></div>
 :::

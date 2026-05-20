@@ -9,27 +9,14 @@ listing:
 
 ::: grid
 ::: {#organizers_banner .g-col-12 .title}
-# Committee Members
-:::
-
-::: {.g-col-6 .text_block}
-
-This bioinformatics mini project conference is part of the undergraduate course Bioinformatics (BISB211606), organized by the Department of Tropical Biology, Faculty of Biology, Universitas Gadjah Mada (UGM).
-
-<small>
-**[UNIVERSITAS GADJAH MADA](https://ugm.ac.id/)**  
-**[Faculty of Biology](https://biologi.ugm.ac.id/en/)**  
-Jalan Teknika Selatan, Sekip Utara  
-Yogyakarta 55281, Indonesia  
-[oia.biology@ugm.ac.id](mailto:oia.biology@ugm.ac.id)
-</small>
-
-<break></break>
+# Organizers
+This bioinformatics mini project conference is part of the undergraduate course Bioinformatics (BISB211606).  
+Organized by the Department of Tropical Biology, Faculty of Biology, Universitas Gadjah Mada (UGM).
 
 :::
 
 ::: {#organizers .g-col-12}
 :::
 
-<break></break>
+<div></div>
 :::

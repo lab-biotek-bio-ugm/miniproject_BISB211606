@@ -1,6 +1,9 @@
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
-# Day 1 Student Presenters
+# Main Schedule
+:::
+
+::: {.g-col-12 .full_text_block}
 :::
 
 <div></div>

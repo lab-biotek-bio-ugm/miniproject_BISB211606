@@ -1,0 +1,12 @@
+::: grid
+::: {#sponsors_banner .g-col-12 .title}
+# Day 1 Student Presenters
+Monday, 25 May 2026 | 10.00 - 15.00 WIB  
+@Auditorium, Faculty of Biology, UGM
+:::
+
+::: {.g-col-12 .full_text_block}
+:::
+
+<div></div>
+:::

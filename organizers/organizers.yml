@@ -2,7 +2,7 @@
   members:
     - name: Prof. Dra. Tuty Arisuryanti, M.Sc., Ph.D.
       affiliation: Course Responsible
-      thumbnail: organizers/img/user.png
+      thumbnail: img/lecturers/tuty.jpg
       href: 
       social: []
     - name: Matin Nuhamunada, M.Sc., Ph.D.
@@ -13,17 +13,17 @@
         - website: https://www.matinnu.org/author/matin-nuhamunada/
     - name: Dr. Dwi Sendi Priyono, M.Si.
       affiliation: Course Responsible
-      thumbnail: organizers/img/user.png
+      thumbnail: img/lecturers/sendi.jpg
       href: 
       social: []
     - name: Dr. Tri Rini Nuringtyas, M.Sc.
       affiliation: Course Responsible
-      thumbnail: organizers/img/user.png
+      thumbnail: img/lecturers/nuning.jpg
       href: 
       social: []
     - name: Arief Muammar, M.Sc.
       affiliation: Course Responsible
-      thumbnail: organizers/img/user.png
+      thumbnail: img/lecturers/arief.jpg
       href: 
       social: []
 

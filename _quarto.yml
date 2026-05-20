@@ -6,7 +6,7 @@ project:
     browser: false
 
 website:
-  title: "Bioinformatics Miniproject Conference"
+  title: "Bioinformatics Mini Project Conference"
   sidebar: false
   navbar:
     background: light
@@ -16,10 +16,14 @@ website:
         text: Home
       - href: speakers/
         text: Speakers
-      - href: day1.qmd
-        text: Day 1
-      - href: day2.qmd
-        text: Day 2
+      - text: Schedule
+        menu:
+          - href: program/schedule.qmd
+            text: Overview
+          - href: program/day1.qmd
+            text: Day 1
+          - href: program/day2.qmd
+            text: Day 2
       - href: organizers/
         text: Organizers
       - href: contact.qmd

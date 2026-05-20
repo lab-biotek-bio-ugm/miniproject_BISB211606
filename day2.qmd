@@ -1,7 +1,0 @@
-::: grid
-::: {#sponsors_banner .g-col-12 .title}
-# Day 2 Student Presenters
-:::
-
-<div></div>
-:::

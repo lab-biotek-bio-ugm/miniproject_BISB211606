@@ -1,0 +1,13 @@
+::: grid
+::: {#sponsors_banner .g-col-12 .title}
+# Day 2 Student Presenters
+Tuesday, 26 May 2026 | 13.00 - 16.00 WIB  
+@Ruang Kuliah IV, Faculty of Biology, UGM  
+@Auditorium, Faculty of Biology, UGM
+:::
+
+::: {.g-col-12 .full_text_block}
+:::
+
+<div></div>
+:::
