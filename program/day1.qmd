@@ -21,28 +21,28 @@ Monday, 25 May 2026 | 10:00 - 17:00 WIB
 :::
 
 ::: {#regular_session .g-col-12}
-## Regular Session 1 | 12:00 - 16:30 WIB | @Auditorium Biologi Tropika
-<div id="schedule-regular"></div>
+## Session 1 | 12:00 - 15:30 WIB | @Auditorium Biologi Tropika
+<div id="schedule-1"></div>
 :::
 
 ::: {#iup_session .g-col-12}
-## IUP Session | 16:30 - 17:00 WIB | @Auditorium Biologi Tropika
-<div id="schedule-iup"></div>
+## Session 2 | 15:45 - 17:00 WIB | @Auditorium Biologi Tropika
+<div id="schedule-2"></div>
 :::
 
 <script src="../js/schedule.js"></script>
 
 <script>
-const SCHEDULE_REGULER = {
-  files: ["../assets/reguler-senin.json"]
+const SCHEDULE_1 = {
+  files: ["../assets/senin-1.json"]
 };
 
-const SCHEDULE_IUP = {
-  files: ["../assets/iup.json"]
+const SCHEDULE_2 = {
+  files: ["../assets/senin-2.json"]
 };
 
-renderSchedule("schedule-regular", SCHEDULE_REGULER);
-renderSchedule("schedule-iup", SCHEDULE_IUP);
+renderSchedule("schedule-1", SCHEDULE_1);
+renderSchedule("schedule-2", SCHEDULE_2);
 </script>
 
 :::

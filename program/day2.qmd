@@ -5,17 +5,17 @@ pagetitle: "Day 2 Schedule"
 ::: grid
 ::: {#sponsors_banner .g-col-12 .title}
 # Day 2 Schedule
-Tuesday, 26 May 2026| 13:00 - 16:45 WIB  
+Tuesday, 26 May 2026 | 13:00 - 17:00 WIB  
 :::
 
 ::: {.g-col-12 .full_text_block}
 ::: {#morning_session .g-col-12}
-## Regular Session 2 | 13:00 - 15:00 WIB | @Ruang Kuliah IVA
+## Session 3 | 13:00 - 14:45 WIB | @Ruang Kuliah IVA
 <div id="schedule-morning"></div>
 :::
 
 ::: {#break_session .g-col-12}
-## Guest Lecture 2 — 15:00 - 16:00 WIB | @Auditorium Biologi Tropika
+## Guest Lecture 2 | 15:00 - 16:00 WIB | @Auditorium Biologi Tropika
 
 | Time | Event | Title | Speakers |
 |---|----|-----------|----------|
@@ -25,7 +25,7 @@ Tuesday, 26 May 2026| 13:00 - 16:45 WIB
 :::
 
 ::: {#afternoon_session .g-col-12}
-## Regular Session 3 | 16:00 - 16:45 WIB | @Auditorium Biologi Tropika
+## Session 4 | 16:00 - 17:00 WIB | @Auditorium Biologi Tropika
 <div id="schedule-afternoon"></div>
 :::
 

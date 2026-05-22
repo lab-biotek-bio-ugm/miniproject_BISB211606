@@ -5,6 +5,35 @@
   },
   "slots": [
     {
+      "no": 19,
+      "group": "Reguler 19",
+      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
+      "title": "Eksplorasi Perangkat Lunak Geneious pada Hippocampus species",
+      "members": [
+        {
+          "name": "Fatimah Zahra",
+          "nim": ""
+        },
+        {
+          "name": "Priza Aqeela Pasha",
+          "nim": "23/517855/BI/11272"
+        },
+        {
+          "name": "Stanisius Ken Sidharta",
+          "nim": "23/518963/BI/11303"
+        },
+        {
+          "name": "Caitlyn Winata",
+          "nim": "23/512874/BI/11174"
+        },
+        {
+          "name": "Casey Nathania Foekri",
+          "nim": "23/518454/BI/11290"
+        }
+      ],
+      "github": ""
+    },
+    {
       "no": 20,
       "group": "Reguler 20",
       "theme": "",
@@ -170,35 +199,6 @@
         {
           "name": "Nayla Rahmah Khairunnisa",
           "nim": "23/514995/BI/11211"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 26,
-      "group": "Reguler 26",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "Molecular Docking Senyawa Fitokimia Lokal Indonesia terhadap CDK1 sebagai Target Terapi Kanker Serviks Menggunakan GNINA",
-      "members": [
-        {
-          "name": "Elsa Sabrina",
-          "nim": "23/521677/BI/11351"
-        },
-        {
-          "name": "Alifia Jasmine Thanaya Lahadina",
-          "nim": "23/519061/BI/11308"
-        },
-        {
-          "name": "Eldira Dinar Putri Anjani",
-          "nim": "23/521828/BI/11358"
-        },
-        {
-          "name": "Arnetta Tiara",
-          "nim": "23/521810/BI/11357"
-        },
-        {
-          "name": "Birulangit Cakrawala D",
-          "nim": "23/520213/BI/11321"
         }
       ],
       "github": ""
