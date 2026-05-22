@@ -35,7 +35,7 @@ website:
     left: |
 
       ::: {.column width="100%"}
-      ![](img/faculty_biology_ugm.png){fig-align="left" style="max-width: 50%; margin-right: 10px; max-height: 50px;"}
+      ![](/img/faculty_biology_ugm.png){fig-align="left" style="max-width: 50%; margin-right: 10px; max-height: 50px;"}
       :::
     right: 
       - icon: envelope
