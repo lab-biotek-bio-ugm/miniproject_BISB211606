@@ -36,8 +36,8 @@
     {
       "no": 2,
       "group": "Reguler 2",
-      "theme": "",
-      "title": "",
+      "theme": "Bioinformatika Struktural & Fungsional",
+      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) β‑Barrel Folding with AlphaFold",
       "members": [
         {
           "name": "Afif Jundy Maulana",
@@ -56,7 +56,7 @@
           "nim": "23/523012/BI/11378"
         }
       ],
-      "github": ""
+      "github": "https://github.com/japmarshella/GFPAlphaFold"
     },
     {
       "no": 3,
@@ -236,7 +236,7 @@
       "no": 9,
       "group": "Reguler 9",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "",
+      "title": "STUDI IN SILICO ANALISIS FILOGENETIK ANGGREK Vanda spp. MENGGUNAKAN GEN matK, rbcL, DAN trnL",
       "members": [
         {
           "name": "Intania Mustofa",
@@ -265,7 +265,7 @@
       "no": 10,
       "group": "Reguler 10",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "",
+      "title": "REKONSTRUKSI POHON FILOGENETIK Rasbora spp. (Cyprinidae) BERBASIS GEN COI MITOKONDRIA DAN KORELASINYA DENGAN POLA DISTRIBUSI GEOGRAFIS",
       "members": [
         {
           "name": "Meutya Laila Syarifa",
@@ -323,7 +323,7 @@
       "no": 12,
       "group": "Reguler 12",
       "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
-      "title": "",
+      "title": "Pendekatan Transkriptomik dan Desain Gene Editing CRISPR/Cas9 Secara In Silico terhadap Gen IL13RA2 sebagai Kandidat Terapeutik Fibrosis Paru",
       "members": [
         {
           "name": "Zipora Ichranuani Narwastu Christy",
@@ -493,7 +493,7 @@
       "no": 19,
       "group": "Reguler 19",
       "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
-      "title": "Analisis Polimorfisme pada Zea Mays Menggunakan Software Geneious",
+      "title": "Eksplorasi Perangkat Lunak Geneious pada Hippocampus species",
       "members": [
         {
           "name": "Fatimah Zahra",
