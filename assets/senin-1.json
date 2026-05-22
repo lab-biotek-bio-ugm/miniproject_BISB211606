@@ -31,34 +31,50 @@
           "nim": "23/518204/BI/11281"
         }
       ],
+<<<<<<< HEAD:assets/senin-1.json
       "github": "",
       "poster": "Day 1"
+=======
+      "github": "https://github.com/WisnuJP45/GROUP-1-Azolla-caroliniana-HERBICIDE-AND-FOOD"
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 2,
       "group": "Reguler 2",
       "theme": "Bioinformatika Struktural & Fungsional",
+<<<<<<< HEAD:assets/senin-1.json
       "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) \u03b2\u2011Barrel Folding with AlphaFold",
+=======
+      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) β-Barrel Folding with AlphaFold",
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
       "members": [
         {
-          "name": "Afif Jundy Maulana",
-          "nim": "23/520918/BI/11335"
+          "name": "Fransiska Elsa Kusuma Astuti",
+          "nim": "23/513316/BI/11181"
         },
         {
-          "name": "Neil Pudjanegara",
-          "nim": "23/516866/BI/11251"
+          "name": "⁠Fadhila Eka Diannova",
+          "nim": "23/513413/BI/11182"
         },
         {
-          "name": "Ikhlasul Amal",
-          "nim": "23/518538/BI/11292"
+          "name": "⁠Kheysa Alvina Handayani",
+          "nim": "23/513687/BI/11183"
         },
         {
-          "name": "Andika Edwin Novianto Ramadhan",
-          "nim": "23/523012/BI/11378"
+          "name": "Jap. Marshella Devina Karunananda",
+          "nim": "23/514152/BI/11189"
+        },
+        {
+          "name": "Rohkmah Sholaikhatin",
+          "nim": "23/514201/BI/11192"
         }
       ],
+<<<<<<< HEAD:assets/senin-1.json
       "github": "https://github.com/japmarshella/GFPAlphaFold",
       "poster": "Day 1"
+=======
+      "github": "https://github.com/japmarshella/GFPAlphaFold"
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 3,
@@ -117,8 +133,12 @@
           "nim": "22/499349/BI/11052"
         }
       ],
+<<<<<<< HEAD:assets/senin-1.json
       "github": "",
       "poster": "Day 1"
+=======
+      "github": "https://github.com/ilovetakoyaki/Project-Bioinformatika-2026.git"
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 5,
@@ -153,32 +173,36 @@
     {
       "no": 6,
       "group": "Reguler 6",
-      "theme": "Bioinformatika Struktural & Fungsional",
-      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) \u03b2\u2011Barrel Folding with AlphaFold",
+      "theme": "Bioinformatika Evolusioner & Filogenetik",
+      "title": "Konstruksi Pohon Filogenetik Genus Ursus Menggunakan Software MEGA12",
       "members": [
         {
-          "name": "Fransiska Elsa Kusuma Astuti",
-          "nim": "23/513316/BI/11181"
+          "name": "Afif Jundy Maulana ",
+          "nim": "23/520918/BI/11335"
         },
         {
-          "name": "Fadhila Eka Diannova",
-          "nim": "23/513413/BI/11182"
+          "name": "Neil Pudjanegara",
+          "nim": "23/516866/BI/11251"
         },
         {
-          "name": "Kheysa Alvina Handayani",
-          "nim": "23/513687/BI/11183"
+          "name": "Ikhlasul Amal",
+          "nim": "23/518538/BI/11292"
         },
         {
-          "name": "Jap. Marshella Devina Karunananda",
-          "nim": "23/514152/BI/11189"
+          "name": "Andika Edwin Novianto Ramadhan",
+          "nim": "23/523012/BI/11378"
         },
         {
-          "name": "Rohkmah Sholaikhatin",
-          "nim": "23/514201/BI/11192"
+          "name": "Felice Tio",
+          "nim": "23/517458/BI/11260"
         }
       ],
+<<<<<<< HEAD:assets/senin-1.json
       "github": "https://github.com/japmarshella/GFPAlphaFold",
       "poster": "Day 1"
+=======
+      "github": "https://github.com/Felicetio/bioinforkelompok6.git"
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 7,
@@ -267,8 +291,12 @@
           "nim": "23/518359/BI/11286"
         }
       ],
+<<<<<<< HEAD:assets/senin-1.json
       "github": "",
       "poster": "Day 1"
+=======
+      "github": "https://github.com/sabrinnakamila/bioinformatics-team-9"
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 10,
@@ -297,8 +325,12 @@
           "nim": "23/515256/BI/11220"
         }
       ],
+<<<<<<< HEAD:assets/senin-1.json
       "github": "",
       "poster": "Day 1"
+=======
+      "github": "https://github.com/blazeir4snsy/Mini-Project-Bioinformatika_BISB211606.git"
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 11,
@@ -390,6 +422,7 @@
       "no": 14,
       "group": "IUP 2",
       "theme": "Bioinformatika Medis / Klinis",
+<<<<<<< HEAD:assets/senin-1.json
       "title": "Network pharmacology of Alzheimer's disease and molecular docking of targeted proteins",
       "members": [
         {
@@ -407,6 +440,115 @@
       ],
       "github": "",
       "poster": "Day 1"
+=======
+      "title": "Analisis Molecular Docking Senyawa Steroid Pregnana Fenolik Aktif dari Scleronephthya gracillimum terhadap VanA Ligase pada Vancomycin-Resistant Enterococcus faecium",
+      "members": [
+        {
+          "name": "Laras Ati",
+          "nim": "23/512073/BI/11169"
+        },
+        {
+          "name": "Geofani Karine Apriliana",
+          "nim": "23/515137/BI/11218"
+        },
+        {
+          "name": "Aditya Ilham Alim",
+          "nim": "23/513104/BI/11177"
+        },
+        {
+          "name": "Angelina Malya Talitha Wasitadewi",
+          "nim": "23/512089/BI/11170"
+        },
+        {
+          "name": "Firdausia Ayu Zuhria",
+          "nim": "23/523123/BI/11382"
+        }
+      ],
+      "github": "https://github.com/angelinamalyatalitha/MinPro-Bioinfor-14"
+    },
+    {
+      "no": 16,
+      "group": "Reguler 16",
+      "theme": "Machine Learning & Big Data dalam Biologi",
+      "title": "Structure-Based Generative Design and Physicochemical Optimization of Cyclic Peptide Inhibitors Targeting CTX-M-15 B-Lactamase",
+      "members": [
+        {
+          "name": "Ahmed Mortezza",
+          "nim": ""
+        },
+        {
+          "name": "Nauval Rajwaa Raysendria",
+          "nim": ""
+        },
+        {
+          "name": "Yesha Fayyaza Firdausi",
+          "nim": ""
+        },
+        {
+          "name": "Geraldine Yara Amritarashmi",
+          "nim": ""
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 17,
+      "group": "Reguler 17",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Studi In Silico Potensi Senyawa Curcumin dan Quercetin sebagai Inhibitor Nucleocapsid 5E04 Protein pada Hantavirus menggunakan Molecular Docking",
+      "members": [
+        {
+          "name": "Fatimah Azzahra A",
+          "nim": "23/515606/BI/11229"
+        },
+        {
+          "name": "Fanisa Esa Alfira",
+          "nim": "23/517678/BI/11267"
+        },
+        {
+          "name": "Karina Safitri",
+          "nim": "23/518247/BI/11283"
+        },
+        {
+          "name": "Dwinda Jasti Nuraini",
+          "nim": "23/515625/BI/11230"
+        },
+        {
+          "name": "Miftah Fauziyah",
+          "nim": "23/521200/BI/11342"
+        }
+      ],
+      "github": ""
+    },
+    {
+      "no": 18,
+      "group": "Reguler 18",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "",
+      "members": [
+        {
+          "name": "Amelia Ikhsanti",
+          "nim": "23/512700/BI/11171"
+        },
+        {
+          "name": "Anisah Alifia Syarafina",
+          "nim": "23/516838/BI/11250"
+        },
+        {
+          "name": "Aura Prista Rukmana",
+          "nim": "23/518778/BI/11298"
+        },
+        {
+          "name": "Elisabet Lintang Permata",
+          "nim": "23/518792/BI/11299"
+        },
+        {
+          "name": "Adella Rivana Vika",
+          "nim": "23/522317/BI/11367"
+        }
+      ],
+      "github": "github.com/ameliaikhsanti/minpro-kel-18"
+>>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     }
   ]
 }
