@@ -31,7 +31,8 @@
           "nim": "23/518454/BI/11290"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 2"
     },
     {
       "no": 20,
@@ -60,7 +61,8 @@
           "nim": "23/516976/BI/11253"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 2"
     },
     {
       "no": 21,
@@ -89,7 +91,8 @@
           "nim": "23/519008/BI/11305"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 2"
     },
     {
       "no": 22,
@@ -114,9 +117,10 @@
           "nim": "23/515006/BI/11212"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 2"
     },
-   {
+    {
       "no": 23,
       "group": "Reguler 23",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
@@ -143,7 +147,8 @@
           "nim": "23/521879/BI/11360"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 2"
     },
     {
       "no": 24,
@@ -172,7 +177,8 @@
           "nim": "23/516889/BI/11252"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 2"
     },
     {
       "no": 25,
@@ -201,7 +207,8 @@
           "nim": "23/514995/BI/11211"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 2"
     }
   ]
 }

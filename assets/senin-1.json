@@ -31,13 +31,14 @@
           "nim": "23/518204/BI/11281"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 2,
       "group": "Reguler 2",
       "theme": "Bioinformatika Struktural & Fungsional",
-      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) β‑Barrel Folding with AlphaFold",
+      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) \u03b2\u2011Barrel Folding with AlphaFold",
       "members": [
         {
           "name": "Afif Jundy Maulana",
@@ -56,7 +57,8 @@
           "nim": "23/523012/BI/11378"
         }
       ],
-      "github": "https://github.com/japmarshella/GFPAlphaFold"
+      "github": "https://github.com/japmarshella/GFPAlphaFold",
+      "poster": "Day 1"
     },
     {
       "no": 3,
@@ -85,7 +87,8 @@
           "nim": "23/514845/BI/11208"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 4,
@@ -114,7 +117,8 @@
           "nim": "22/499349/BI/11052"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 5,
@@ -143,7 +147,8 @@
           "nim": "23/518323/BI/11285"
         }
       ],
-      "github": "https://github.com/alifiazahrafachrunisa/Mini-Project-Bioinformatika.git"
+      "github": "https://github.com/alifiazahrafachrunisa/Mini-Project-Bioinformatika.git",
+      "poster": "Day 1"
     },
     {
       "no": 6,
@@ -172,7 +177,8 @@
           "nim": "23/514201/BI/11192"
         }
       ],
-      "github": "https://github.com/japmarshella/GFPAlphaFold"
+      "github": "https://github.com/japmarshella/GFPAlphaFold",
+      "poster": "Day 1"
     },
     {
       "no": 7,
@@ -201,7 +207,8 @@
           "nim": "23/520825/BI/11333"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 8,
@@ -230,7 +237,8 @@
           "nim": "23/522221/BI/11366"
         }
       ],
-      "github": "https://github.com/astheriaa/Mini-Project-Bioinformatika-Kelompok-8-2026.git"
+      "github": "https://github.com/astheriaa/Mini-Project-Bioinformatika-Kelompok-8-2026.git",
+      "poster": "Day 1"
     },
     {
       "no": 9,
@@ -259,7 +267,8 @@
           "nim": "23/518359/BI/11286"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 10,
@@ -288,7 +297,8 @@
           "nim": "23/515256/BI/11220"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 11,
@@ -317,7 +327,8 @@
           "nim": "23/514628/BI/11197"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 12,
@@ -346,7 +357,8 @@
           "nim": "23/518217/BI/11282"
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 13,
@@ -371,7 +383,8 @@
           "nim": ""
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     },
     {
       "no": 14,
@@ -392,7 +405,8 @@
           "nim": ""
         }
       ],
-      "github": ""
+      "github": "",
+      "poster": "Day 1"
     }
   ]
 }
