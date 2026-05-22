@@ -10,16 +10,16 @@ Tuesday, 26 May 2026 | 13:00 - 17:00 WIB
 
 ::: {.g-col-12 .full_text_block}
 ::: {#morning_session .g-col-12}
-## Session 3 | 13:00 - 14:45 WIB | @Ruang Kuliah IVA
+## Session 3 | 13:00 - 14:45 WIB | @Ruang Kuliah IVB
 <div id="schedule-morning"></div>
 :::
 
 ::: {#break_session .g-col-12}
 ## Guest Lecture 2 | 15:00 - 16:00 WIB | @Auditorium Biologi Tropika
 
-| Time | Event | Title | Speakers |
-|---|----|-----------|----------|
-| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | Zhijie Yang |
+| Time | Event | Title | Speakers | Moderator |
+|---|----|-----------|----------|----------|
+| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | Zhijie Yang | Matin Nuhamunada |
 : {.table .table-striped .table-hover .schedule-table}
 
 :::

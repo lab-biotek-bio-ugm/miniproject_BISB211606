@@ -12,10 +12,10 @@ Monday, 25 May 2026 | 10:00 - 17:00 WIB
 ::: {#break_session .g-col-12}
 ## Guest Lecture 1 — 10:00 - 11:30 WIB | @Auditorium Biologi Tropika
 
-| Time | Event | Title | Speakers |
-|---|----|-----------|----------|
-| 10.00 - 10.30 | Opening Remarks | | Prof. Dra. Tuty Arisuryanti, M.Sc., Ph.D. (Course Responsible) |
-| 10.30 - 11.30 | Guest Lecture 1 | Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems | Serge Andrefouet |
+| Time | Event | Title | Speakers | Moderator |
+|---|----|-----------|----------|----------|
+| 10.00 - 10.30 | Opening Remarks | | Matin Nuhamunada (Course Responsible) | |
+| 10.30 - 11.30 | Guest Lecture 1 | Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems | **Serge Andrefouet** | Mirza Hanif Al Falah | 
 : {.table .table-striped .table-hover .schedule-table}
 
 :::
