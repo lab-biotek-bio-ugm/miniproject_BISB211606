@@ -19,7 +19,7 @@ Tuesday, 26 May 2026 | 13:00 - 17:00 WIB
 
 | Time | Event | Title | Speakers | Moderator |
 |---|----|-----------|----------|----------|
-| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | Zhijie Yang | Matin Nuhamunada |
+| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | Zhijie Yang | Arief Muammar |
 : {.table .table-striped .table-hover .schedule-table}
 
 :::
