@@ -31,22 +31,13 @@
           "nim": "23/518204/BI/11281"
         }
       ],
-<<<<<<< HEAD:assets/senin-1.json
-      "github": "",
-      "poster": "Day 1"
-=======
       "github": "https://github.com/WisnuJP45/GROUP-1-Azolla-caroliniana-HERBICIDE-AND-FOOD"
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 2,
       "group": "Reguler 2",
       "theme": "Bioinformatika Struktural & Fungsional",
-<<<<<<< HEAD:assets/senin-1.json
-      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) \u03b2\u2011Barrel Folding with AlphaFold",
-=======
       "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) β-Barrel Folding with AlphaFold",
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
       "members": [
         {
           "name": "Fransiska Elsa Kusuma Astuti",
@@ -69,12 +60,7 @@
           "nim": "23/514201/BI/11192"
         }
       ],
-<<<<<<< HEAD:assets/senin-1.json
-      "github": "https://github.com/japmarshella/GFPAlphaFold",
-      "poster": "Day 1"
-=======
       "github": "https://github.com/japmarshella/GFPAlphaFold"
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 3,
@@ -133,12 +119,7 @@
           "nim": "22/499349/BI/11052"
         }
       ],
-<<<<<<< HEAD:assets/senin-1.json
-      "github": "",
-      "poster": "Day 1"
-=======
       "github": "https://github.com/ilovetakoyaki/Project-Bioinformatika-2026.git"
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 5,
@@ -197,12 +178,7 @@
           "nim": "23/517458/BI/11260"
         }
       ],
-<<<<<<< HEAD:assets/senin-1.json
-      "github": "https://github.com/japmarshella/GFPAlphaFold",
-      "poster": "Day 1"
-=======
       "github": "https://github.com/Felicetio/bioinforkelompok6.git"
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 7,
@@ -291,12 +267,7 @@
           "nim": "23/518359/BI/11286"
         }
       ],
-<<<<<<< HEAD:assets/senin-1.json
-      "github": "",
-      "poster": "Day 1"
-=======
       "github": "https://github.com/sabrinnakamila/bioinformatics-team-9"
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 10,
@@ -325,12 +296,7 @@
           "nim": "23/515256/BI/11220"
         }
       ],
-<<<<<<< HEAD:assets/senin-1.json
-      "github": "",
-      "poster": "Day 1"
-=======
       "github": "https://github.com/blazeir4snsy/Mini-Project-Bioinformatika_BISB211606.git"
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     },
     {
       "no": 11,
@@ -422,25 +388,6 @@
       "no": 14,
       "group": "IUP 2",
       "theme": "Bioinformatika Medis / Klinis",
-<<<<<<< HEAD:assets/senin-1.json
-      "title": "Network pharmacology of Alzheimer's disease and molecular docking of targeted proteins",
-      "members": [
-        {
-          "name": "Arista",
-          "nim": ""
-        },
-        {
-          "name": "Faizal",
-          "nim": ""
-        },
-        {
-          "name": "Shainna",
-          "nim": ""
-        }
-      ],
-      "github": "",
-      "poster": "Day 1"
-=======
       "title": "Analisis Molecular Docking Senyawa Steroid Pregnana Fenolik Aktif dari Scleronephthya gracillimum terhadap VanA Ligase pada Vancomycin-Resistant Enterococcus faecium",
       "members": [
         {
@@ -548,7 +495,6 @@
         }
       ],
       "github": "github.com/ameliaikhsanti/minpro-kel-18"
->>>>>>> 2dbf20d (edit reguler-senin.json):assets/reguler-senin.json
     }
   ]
 }
