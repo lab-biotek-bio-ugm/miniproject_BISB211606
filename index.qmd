@@ -38,7 +38,7 @@ Participants will gain experience in communicating scientific findings in a prof
 :::
 
 ::: {.g-col-6 .img_margin}
-![](img/posterbioinfor.png){.img_block width="50%"}
+![](img/poster_bioinfor.png){.img_block width="75%"}
 
 ::: {.text-center}
 [Guest Lectures](speakers/){.btn .btn-primary target="_blank"}
