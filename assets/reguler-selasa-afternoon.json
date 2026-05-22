@@ -5,6 +5,35 @@
   },
   "slots": [
     {
+      "no": 26,
+      "group": "Reguler 26",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Molecular Docking Senyawa Fitokimia Lokal Indonesia terhadap CDK1 sebagai Target Terapi Kanker Serviks Menggunakan GNINA",
+      "members": [
+        {
+          "name": "Elsa Sabrina",
+          "nim": "23/521677/BI/11351"
+        },
+        {
+          "name": "Alifia Jasmine Thanaya Lahadina",
+          "nim": "23/519061/BI/11308"
+        },
+        {
+          "name": "Eldira Dinar Putri Anjani",
+          "nim": "23/521828/BI/11358"
+        },
+        {
+          "name": "Arnetta Tiara",
+          "nim": "23/521810/BI/11357"
+        },
+        {
+          "name": "Birulangit Cakrawala D",
+          "nim": "23/520213/BI/11321"
+        }
+      ],
+      "github": ""
+    },
+    {
       "no": 27,
       "group": "Reguler 27",
       "theme": "Bioinformatika Evolusioner & Filogenetik",

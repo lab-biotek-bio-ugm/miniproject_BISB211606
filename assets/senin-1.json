@@ -350,170 +350,46 @@
     },
     {
       "no": 13,
-      "group": "Reguler 13",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
+      "group": "IUP 1",
+      "theme": "Machine Learning & Big Data dalam Biologi",
+      "title": "WBC Numeration Using Image Recognition",
       "members": [
         {
-          "name": "Syarifathunnisa Iryanti",
-          "nim": "23/518191/BI/11280"
-        },
-        {
-          "name": "Grace River T.P.S",
+          "name": "Salvana",
           "nim": ""
         },
         {
-          "name": "Milka Natasya Purwanto",
-          "nim": "23/521488/BI/11347"
+          "name": "Rizal",
+          "nim": ""
         },
         {
-          "name": "Rachel Geraldine Tabitha",
-          "nim": "23/517983/BI/11276"
+          "name": "Sebayang",
+          "nim": ""
         },
         {
-          "name": "Salsabila Nayla",
-          "nim": "23/517050/BI/11254"
+          "name": "Risqa",
+          "nim": ""
         }
       ],
       "github": ""
     },
     {
       "no": 14,
-      "group": "Reguler 14",
+      "group": "IUP 2",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
+      "title": "Network pharmacology of Alzheimer's disease and molecular docking of targeted proteins",
       "members": [
         {
-          "name": "Laras Ati",
+          "name": "Arista",
           "nim": ""
         },
         {
-          "name": "Geofani Karine Apriliana",
+          "name": "Faizal",
           "nim": ""
         },
         {
-          "name": "Aditya Ilham Alim",
-          "nim": "23/513104/BI/11177"
-        },
-        {
-          "name": "Angelina Malya Talitha Wasitadewi",
-          "nim": "23/512089/BI/11170"
-        },
-        {
-          "name": "Firdausia Ayu Zuhria",
-          "nim": "23/523123/BI/11382"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 16,
-      "group": "Reguler 16",
-      "theme": "Machine Learning & Big Data dalam Biologi",
-      "title": "",
-      "members": [
-        {
-          "name": "Ahmed Mortezza",
+          "name": "Shainna",
           "nim": ""
-        },
-        {
-          "name": "Nauval Rajwaa Raysendria",
-          "nim": ""
-        },
-        {
-          "name": "Yesha Fayyaza Firdausi",
-          "nim": ""
-        },
-        {
-          "name": "Geraldine Yara Amritarashmi",
-          "nim": ""
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 17,
-      "group": "Reguler 17",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "Studi In Silico Potensi Senyawa Curcumin dan Quercetin sebagai Inhibitor Nucleocapsid 5E04 Protein pada Hantavirus menggunakan Molecular Docking",
-      "members": [
-        {
-          "name": "Fatimah Azzahra A",
-          "nim": ""
-        },
-        {
-          "name": "Fanisa Esa Alfira",
-          "nim": "23/517678/BI/11267"
-        },
-        {
-          "name": "Karina Safitri",
-          "nim": "23/518247/BI/11283"
-        },
-        {
-          "name": "Dwinda Jasti Nuraini",
-          "nim": "23/515625/BI/11230"
-        },
-        {
-          "name": "Miftah Fauziyah",
-          "nim": "23/521200/BI/11342"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 18,
-      "group": "Reguler 18",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
-      "members": [
-        {
-          "name": "Amelia Ikhsanti",
-          "nim": "23/512700/BI/11171"
-        },
-        {
-          "name": "Anisah Alifia Syarafina",
-          "nim": "23/516838/BI/11250"
-        },
-        {
-          "name": "Aura Prista Rukmana",
-          "nim": "23/518778/BI/11298"
-        },
-        {
-          "name": "Elisabet Lintang Permata",
-          "nim": "23/518792/BI/11299"
-        },
-        {
-          "name": "Adella Rivana Vika",
-          "nim": "23/522317/BI/11367"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 19,
-      "group": "Reguler 19",
-      "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
-      "title": "Eksplorasi Perangkat Lunak Geneious pada Hippocampus species",
-      "members": [
-        {
-          "name": "Fatimah Zahra",
-          "nim": ""
-        },
-        {
-          "name": "Priza Aqeela Pasha",
-          "nim": "23/517855/BI/11272"
-        },
-        {
-          "name": "Stanisius Ken Sidharta",
-          "nim": "23/518963/BI/11303"
-        },
-        {
-          "name": "Caitlyn Winata",
-          "nim": "23/512874/BI/11174"
-        },
-        {
-          "name": "Casey Nathania Foekri",
-          "nim": "23/518454/BI/11290"
         }
       ],
       "github": ""
