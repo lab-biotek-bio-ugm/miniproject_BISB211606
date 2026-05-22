@@ -14,7 +14,7 @@ function renderSchedule(containerId, config) {
   function render(data) {
     let nextTime = data.sessions.start;
     let html = `<table class="table table-striped table-hover schedule-table">`;
-    html += `<thead><tr><th>Time</th><th>Group</th><th>Theme</th><th>Title</th><th>Members</th><th>GitHub</th></tr></thead>`;
+    html += `<thead><tr><th>Time</th><th>Group</th><th>Theme</th><th>Title</th><th>Members</th><th>Poster</th><th>GitHub</th></tr></thead>`;
     html += `<tbody>`;
     data.slots.forEach(g => {
       const duration = g.duration || data.sessions.duration;
@@ -32,6 +32,7 @@ function renderSchedule(containerId, config) {
         <td><em>${theme}</em></td>
         <td>${title}</td>
         <td>${members}</td>
+        <td>${g.poster || ""}</td>
         <td>${github ? '<a href="' + github + '" target="_blank" rel="noopener">Link</a>' : ""}</td>
       </tr>`;
       nextTime += duration;
