@@ -11,23 +11,25 @@ pagetitle: "Main Schedule"
 
 ## Day 1 — Monday, 25 May 2026
 
-| Time | Event | Title | Speakers |
-|---|---|---|---|
-| 10.00 - 10.30 | Opening Remarks | | Matin Nuhamunada |
-| 10.30 - 11.30 | Guest Lecture 1 | Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems | Serge Andrefouet |
-| 11.30 - 12.00 | Break | | |
-| 12.00 - 15.00 | Regular Session 1 | 19 Student Presentations | — |
-| 16.30 - 17.00 | IUP Session | 2 Student Presentations | — |
+| Time | Event | Title | Speakers | Moderator / Judges |
+|---|-----|---------|-----|-----|
+| 10.00 - 10.30 | Opening Remarks | | Matin Nuhamunada | |
+| 10.30 - 11.30 | Guest Lecture 1 | Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems | **Serge Andrefouet** | Mirza Hanif Al Falah |
+| 11.30 - 12.00 | Break | | | |
+| 12.00 - 15.30 | Session 1 | 9 Student Presentations | — | Winda Lutfiana Hafidz, Afra Majida Hariono, Nurul Istiqomah |
+|  |  | 5 Student Presentations | — | Achmad Nadhmi Arfa, Alda Zaenida Nurul Raizma, Kyla Tattvara Faza Arumdapta |
+| 15.30 - 15.45 | Break | | | |
+| 15.45 - 17.00 | Session 2 | 5 Student Presentations | — | Achmad Nadhmi Arfa, Alda Zaenida Nurul Raizma, Kyla Tattvara Faza Arumdapta |
 : {.table .table-striped .table-hover .schedule-table}
 
 ## Day 2 — Tuesday, 26 May 2026
 
-| Time | Event | Title | Speakers |
-|---|---|---|---|
-| 13.00 - 15.00 | Regular Session 2 | 7 Student Presentations | — |
-| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | Zhijie Yang |
-| 16.00 - 16:45 | Regular Session 3 | 3 Student Presentations | — |
-| 16.45 - 17.00 | Wrap Up           | Matin Nuhamunada        |   |
+| Time | Event | Title | Speakers | Moderator / Judges |
+|---|-----|---------|-----|-----|
+| 13.00 - 14.45 | Session 3 | 7 Student Presentations | — | Nirina Adelita Putri, Muhammad Meshal Ramadhayesa, Huriyah Winda Nabillah |
+| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | **Zhijie Yang** | Arief Muammar |
+| 16.00 - 17.00 | Session 4 | 4 Student Presentations | — | Adelia Khairunnisa, Annisa Nur Baety, Feliciana Clara Henderison |
+| 17.00 - 17.15 | Wrap Up | | Matin Nuhamunada | |
 : {.table .table-striped .table-hover .schedule-table}
 
 :::
