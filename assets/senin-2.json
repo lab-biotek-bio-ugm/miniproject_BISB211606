@@ -8,7 +8,7 @@
       "no": 13,
       "group": "Reguler 13",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
+      "title": "RhinoVIN Herba: Potensi Senyawa Bioaktif Tanaman Herbal Indonesia sebagai Inhibitor Human Rhinovirus VP1 melalui Molecular Docking",
       "members": [
         {
           "name": "Syarifathunnisa Iryanti",
@@ -31,14 +31,17 @@
           "nim": "23/517050/BI/11254"
         }
       ],
-      "github": "",
-      "poster": "Day 1"
+      "Links": {
+        "github": "https://github.com/milkanatasya/BioinformatikaR13",
+        "poster": "https://drive.google.com/open?id=1jxudmtseq1CnczrERVDigvFs82Hc9VYI"
+      },
+      "poster_session": "Day 1"
     },
     {
       "no": 14,
       "group": "Reguler 14",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
+      "title": "Analisis Molecular Docking Senyawa Steroid Pregnana Fenolik Aktif dari Scleronephthya gracillimum terhadap VanA Ligase pada Vancomycin-Resistant Enterococcus faecium",
       "members": [
         {
           "name": "Laras Ati",
@@ -61,8 +64,11 @@
           "nim": "23/523123/BI/11382"
         }
       ],
-      "github": "",
-      "poster": "Day 1"
+      "Links": {
+        "github": "https://github.com/angelinamalyatalitha/MinPro-Bioinfor-14",
+        "poster": "https://drive.google.com/open?id=1Gs57XQ-fiL6_EdwNUvE9Ap7DgW8rtoCV"
+      },
+      "poster_session": "Day 1"
     },
     {
       "no": 16,
@@ -87,8 +93,7 @@
           "nim": ""
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "poster_session": "Day 2"
     },
     {
       "no": 17,
@@ -117,14 +122,17 @@
           "nim": "23/521200/BI/11342"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/azzahrahda/HantavirusMolecularDocking",
+        "poster": "https://drive.google.com/open?id=1qxUCK0oyBy-eVKSv1YbjA20AoNcBYcex"
+      },
+      "poster_session": "Day 2"
     },
     {
       "no": 18,
       "group": "Reguler 18",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
+      "title": "RE-ANALISIS VARIASI GENETIK GEN TP53 PADA ENAM SAMPEL PASIEN KANKER RAHIM SERTA KOMPARASI HASIL VISUALISASI MENGGUNAKAN JBROWSE DAN INTEGRATIVE GENOMICS VIEWER (IGV)",
       "members": [
         {
           "name": "Amelia Ikhsanti",
@@ -147,8 +155,11 @@
           "nim": "23/522317/BI/11367"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "github.com/ameliaikhsanti/minpro-kel-18",
+        "poster": "https://drive.google.com/open?id=1bXLVjC3wMqOblaMqoHlgdqbRnYMM5V0s"
+      },
+      "poster_session": "Day 2"
     }
   ]
 }
