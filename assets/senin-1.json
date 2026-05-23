@@ -31,7 +31,8 @@
           "nim": "23/518204/BI/11281"
         }
       ],
-      "github": "https://github.com/WisnuJP45/GROUP-1-Azolla-caroliniana-HERBICIDE-AND-FOOD"
+      "github": "https://github.com/WisnuJP45/GROUP-1-Azolla-caroliniana-HERBICIDE-AND-FOOD",
+      "poster": "Day 1"
     },
     {
       "no": 2,
@@ -60,7 +61,8 @@
           "nim": "23/514201/BI/11192"
         }
       ],
-      "github": "https://github.com/japmarshella/GFPAlphaFold"
+      "github": "https://github.com/japmarshella/GFPAlphaFold",
+      "poster": "Day 1"
     },
     {
       "no": 3,
@@ -119,7 +121,8 @@
           "nim": "22/499349/BI/11052"
         }
       ],
-      "github": "https://github.com/ilovetakoyaki/Project-Bioinformatika-2026.git"
+      "github": "https://github.com/ilovetakoyaki/Project-Bioinformatika-2026.git",
+      "poster": "Day 1"
     },
     {
       "no": 5,
@@ -178,7 +181,8 @@
           "nim": "23/517458/BI/11260"
         }
       ],
-      "github": "https://github.com/Felicetio/bioinforkelompok6.git"
+      "github": "https://github.com/Felicetio/bioinforkelompok6.git",
+      "poster": "Day 1"
     },
     {
       "no": 7,
@@ -267,7 +271,8 @@
           "nim": "23/518359/BI/11286"
         }
       ],
-      "github": "https://github.com/sabrinnakamila/bioinformatics-team-9"
+      "github": "https://github.com/sabrinnakamila/bioinformatics-team-9",
+      "poster": "Day 1"
     },
     {
       "no": 10,
@@ -296,7 +301,8 @@
           "nim": "23/515256/BI/11220"
         }
       ],
-      "github": "https://github.com/blazeir4snsy/Mini-Project-Bioinformatika_BISB211606.git"
+      "github": "https://github.com/blazeir4snsy/Mini-Project-Bioinformatika_BISB211606.git",
+      "poster": "Day 1"
     },
     {
       "no": 11,
@@ -411,90 +417,8 @@
           "nim": "23/523123/BI/11382"
         }
       ],
-      "github": "https://github.com/angelinamalyatalitha/MinPro-Bioinfor-14"
-    },
-    {
-      "no": 16,
-      "group": "Reguler 16",
-      "theme": "Machine Learning & Big Data dalam Biologi",
-      "title": "Structure-Based Generative Design and Physicochemical Optimization of Cyclic Peptide Inhibitors Targeting CTX-M-15 B-Lactamase",
-      "members": [
-        {
-          "name": "Ahmed Mortezza",
-          "nim": ""
-        },
-        {
-          "name": "Nauval Rajwaa Raysendria",
-          "nim": ""
-        },
-        {
-          "name": "Yesha Fayyaza Firdausi",
-          "nim": ""
-        },
-        {
-          "name": "Geraldine Yara Amritarashmi",
-          "nim": ""
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 17,
-      "group": "Reguler 17",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "Studi In Silico Potensi Senyawa Curcumin dan Quercetin sebagai Inhibitor Nucleocapsid 5E04 Protein pada Hantavirus menggunakan Molecular Docking",
-      "members": [
-        {
-          "name": "Fatimah Azzahra A",
-          "nim": "23/515606/BI/11229"
-        },
-        {
-          "name": "Fanisa Esa Alfira",
-          "nim": "23/517678/BI/11267"
-        },
-        {
-          "name": "Karina Safitri",
-          "nim": "23/518247/BI/11283"
-        },
-        {
-          "name": "Dwinda Jasti Nuraini",
-          "nim": "23/515625/BI/11230"
-        },
-        {
-          "name": "Miftah Fauziyah",
-          "nim": "23/521200/BI/11342"
-        }
-      ],
-      "github": ""
-    },
-    {
-      "no": 18,
-      "group": "Reguler 18",
-      "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
-      "members": [
-        {
-          "name": "Amelia Ikhsanti",
-          "nim": "23/512700/BI/11171"
-        },
-        {
-          "name": "Anisah Alifia Syarafina",
-          "nim": "23/516838/BI/11250"
-        },
-        {
-          "name": "Aura Prista Rukmana",
-          "nim": "23/518778/BI/11298"
-        },
-        {
-          "name": "Elisabet Lintang Permata",
-          "nim": "23/518792/BI/11299"
-        },
-        {
-          "name": "Adella Rivana Vika",
-          "nim": "23/522317/BI/11367"
-        }
-      ],
-      "github": "github.com/ameliaikhsanti/minpro-kel-18"
+      "github": "https://github.com/angelinamalyatalitha/MinPro-Bioinfor-14",
+      "poster": "Day 1"
     }
   ]
 }
