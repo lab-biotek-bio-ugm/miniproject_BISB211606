@@ -39,7 +39,7 @@ function renderSchedule(containerId, config) {
           const dayMatch = poster.match(/Day\s+(\d)/i);
           const dayNum = dayMatch ? dayMatch[1] : "";
           const dayText = dayNum ? `Day ${dayNum}` : poster;
-          const href = isDrive ? driveUrl : (dayNum ? `./day${dayNum}.html` : "");
+          const href = isDrive ? driveUrl : "";
           return href ? `<a href="${href}" target="_blank" rel="noopener">${dayText}</a>` : dayText;
         })()}</td>
         <td>${github ? '<a href="' + github + '" target="_blank" rel="noopener">Link</a>' : ""}</td>
