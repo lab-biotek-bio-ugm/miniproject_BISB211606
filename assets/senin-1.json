@@ -206,7 +206,7 @@
       "no": 7,
       "group": "Reguler 7",
       "theme": "Bioinformatika Omics (Genomics, Transcriptomics, etc.)",
-      "title": "",
+      "title": "ANALISIS INTERAKSI MOLEKULER CO-CRYSTALIZED PEG DAN EDO TERHADAP PROTEIN MATRIX M1 INFLUENZA DENGAN MOLECULAR DOCKING",
       "members": [
         {
           "name": "Syafina alya",
@@ -229,6 +229,10 @@
           "nim": "23/520825/BI/11333"
         }
       ],
+      "Links": {
+        "github": "",
+        "poster": "https://drive.google.com/open?id=1IzwiaLbM4F-WIOHmlttAeDZo3Wxe0e44"
+      },
       "poster_session": "Day 1"
     },
     {
