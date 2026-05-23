@@ -8,27 +8,27 @@
       "no": 1,
       "group": "Reguler 1",
       "theme": "Bioinformatika Pertanian & Peternakan",
-      "title": "PEMANFAATAN Azolla caroliniana SEBAGAI HERBISIDA DAN PAKAN Oreochromis niloticus",
+      "title": "PEMANFAATAN Azolla caroliniana SEBAGAI HERBISIDA DAN PAKAN NILA (Oreochromis niloticus)",
       "members": [
         {
-          "name": "Adrian Pradipto Harmawan",
-          "nim": "23/520012/BI/11320"
-        },
-        {
-          "name": "Yusuf Maulana Affwan",
-          "nim": "23/519768/BI/11314"
+          "name": "Dwi Riza Setyawan",
+          "nim": "23/518204/BI/11281"
         },
         {
           "name": "Gracia Rosalind Kurniawan",
           "nim": "23/519077/BI/11309"
         },
         {
-          "name": "Wisnu Jaya Permana",
-          "nim": "23/523114/BI/11381"
+          "name": "Yusuf Maulana Affwan",
+          "nim": "23/519768/BI/11314"
         },
         {
-          "name": "Dwi Riza Setyawan",
-          "nim": "23/518204/BI/11281"
+          "name": "Adrian Pradipto Harmawan",
+          "nim": "23/520012/BI/11320"
+        },
+        {
+          "name": "Wisnu Jaya Permana",
+          "nim": "23/523114/BI/11381"
         }
       ],
       "Links": {
@@ -41,18 +41,18 @@
       "no": 2,
       "group": "Reguler 2",
       "theme": "Bioinformatika Struktural & Fungsional",
-      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein (GFP) β-Barrel Folding with AlphaFold",
+      "title": "3D Structure Prediction of Aequorea victoria Green Fluorescent Protein GFP β‑Barrel Folding with AlphaFold",
       "members": [
         {
           "name": "Fransiska Elsa Kusuma Astuti",
           "nim": "23/513316/BI/11181"
         },
         {
-          "name": "⁠Fadhila Eka Diannova",
+          "name": "Fadhila Eka Diannova",
           "nim": "23/513413/BI/11182"
         },
         {
-          "name": "⁠Kheysa Alvina Handayani",
+          "name": "Kheysa Alvina Handayani",
           "nim": "23/513687/BI/11183"
         },
         {
@@ -74,16 +74,8 @@
       "no": 3,
       "group": "Reguler 3",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "CREST: Comparative Research on Evolution, Selection pressure, and codon usage of Three Cacatua species",
+      "title": "CREST : Cacatua alba Research on Evolution, Selection Pressure, and Codon Usage Trends",
       "members": [
-        {
-          "name": "Zafiero Hasby Dzikri",
-          "nim": "23/514655/BI/11199"
-        },
-        {
-          "name": "Ihsanul Fikri Alfarizel",
-          "nim": "23/514678/BI/11202"
-        },
         {
           "name": "Adelia Yusuf Ardhani",
           "nim": "23/517844/BI/11271"
@@ -95,6 +87,14 @@
         {
           "name": "Diva Septiani",
           "nim": "23/514845/BI/11208"
+        },
+        {
+          "name": "Ihsanul Fikri Alfarizel",
+          "nim": "23/514678/BI/11202"
+        },
+        {
+          "name": "Zafiero Hasby Dzikri",
+          "nim": "23/514655/BI/11199"
         }
       ],
       "Links": {
@@ -110,24 +110,24 @@
       "title": "Analisis Ekspresi Gen Diferensial dan Enrichment Pathway pada Kanker Pankreas Berdasarkan Dataset GEO GSE28735",
       "members": [
         {
-          "name": "Adha Nurkholifah",
-          "nim": "23/518426/BI/11287"
-        },
-        {
-          "name": "Devi Korniasari",
-          "nim": "23/519029/BI/11306"
-        },
-        {
-          "name": "Talitha Daris Nirwasita",
-          "nim": "23/518540/BI/11294"
+          "name": "Ade Riyana Pangestika",
+          "nim": "22/499349/BI/11052"
         },
         {
           "name": "Hanin Izdihar",
           "nim": "23/517672/BI/11265"
         },
         {
-          "name": "Ade Riyana Pangestika",
-          "nim": "22/499349/BI/11052"
+          "name": "Adha Nurkholifah",
+          "nim": "23/518426/BI/11287"
+        },
+        {
+          "name": "Talitha Daris Nirwasita",
+          "nim": "23/518540/BI/11294"
+        },
+        {
+          "name": "Devi Korniasari",
+          "nim": "23/519029/BI/11306"
         }
       ],
       "Links": {
@@ -143,6 +143,14 @@
       "title": "Analisis Perbandingan Pharokka dan Phold dalam Annotasi Fungsional Genom Enterobacteria Phage Lambda",
       "members": [
         {
+          "name": "Jocelyn Christy Mary Koraag",
+          "nim": "23/518323/BI/11285"
+        },
+        {
+          "name": "Zahratun Nadwatits Tsaniyah",
+          "nim": "23/518441/BI/11289"
+        },
+        {
           "name": "Muhammad Naufal Arya Pratama",
           "nim": "23/518499/BI/11291"
         },
@@ -153,14 +161,6 @@
         {
           "name": "Berliana Aura Cinta Laela",
           "nim": "23/521405/BI/11346"
-        },
-        {
-          "name": "Zahratun Nadwatits Tsaniyah",
-          "nim": "23/518441/BI/11289"
-        },
-        {
-          "name": "Jocelyn Christy Mary Koraag",
-          "nim": "23/518323/BI/11285"
         }
       ],
       "Links": {
@@ -173,27 +173,27 @@
       "no": 6,
       "group": "Reguler 6",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "Konstruksi Pohon Filogenetik Genus Ursus Menggunakan Software MEGA12",
+      "title": "KONSTRUKSI POHON FILOGENETIK GENUS Ursus MENGGUNAKAN SOFTWARE MEGA12",
       "members": [
-        {
-          "name": "Afif Jundy Maulana ",
-          "nim": "23/520918/BI/11335"
-        },
         {
           "name": "Neil Pudjanegara",
           "nim": "23/516866/BI/11251"
         },
         {
+          "name": "Felice Tio",
+          "nim": "23/517458/BI/11260"
+        },
+        {
           "name": "Ikhlasul Amal",
-          "nim": "23/518538/BI/11292"
+          "nim": "23/518539/BI/11293"
+        },
+        {
+          "name": "Afif Jundy Maulana",
+          "nim": "23/520918/BI/11335"
         },
         {
           "name": "Andika Edwin Novianto Ramadhan",
           "nim": "23/523012/BI/11378"
-        },
-        {
-          "name": "Felice Tio",
-          "nim": "23/517458/BI/11260"
         }
       ],
       "Links": {
@@ -271,24 +271,24 @@
       "title": "STUDI IN SILICO ANALISIS FILOGENETIK ANGGREK Vanda spp. MENGGUNAKAN GEN matK, rbcL, DAN trnL",
       "members": [
         {
-          "name": "Intania Mustofa",
-          "nim": "23/514735/BI/11204"
-        },
-        {
-          "name": "Latifah Fitri Alviani",
-          "nim": "23/521198/BI/11341"
-        },
-        {
           "name": "Kamila Tsamara Yofana",
           "nim": "23/514583/BI/11195"
         },
         {
-          "name": "Kamila Miza Sabrina",
-          "nim": "23/523324/BI/11385"
+          "name": "Intania Mustofa",
+          "nim": "23/514735/BI/11204"
         },
         {
           "name": "Nur Fatimah Ratna Handayani",
           "nim": "23/518359/BI/11286"
+        },
+        {
+          "name": "Latifa Fitri Alviani",
+          "nim": "23/521198/BI/11341"
+        },
+        {
+          "name": "Kamila Miza Sabrina",
+          "nim": "23/523324/BI/11385"
         }
       ],
       "Links": {
@@ -304,24 +304,24 @@
       "title": "REKONSTRUKSI POHON FILOGENETIK Rasbora spp. (Cyprinidae) BERBASIS GEN COI MITOKONDRIA DAN KORELASINYA DENGAN POLA DISTRIBUSI GEOGRAFIS",
       "members": [
         {
-          "name": "Meutya Laila Syarifa",
-          "nim": "23/517607/BI/11263"
+          "name": "Golda Theresia Simarmata",
+          "nim": "23/515024/BI/11214"
         },
         {
           "name": "Dwi Pramesti Wahyuningtias",
           "nim": "23/515091/BI/11217"
         },
         {
+          "name": "Khilda Aquilatin Nada",
+          "nim": "23/515256/BI/11220"
+        },
+        {
           "name": "Az Zahra Blazei Damara Putri",
           "nim": "23/517482/BI/11261"
         },
         {
-          "name": "Golda Theresia Simarmata",
-          "nim": "23/515024/BI/11214"
-        },
-        {
-          "name": "Khilda Aquilatin Nada",
-          "nim": "23/515256/BI/11220"
+          "name": "Meutya Laila Syarifa",
+          "nim": "23/517607/BI/11263"
         }
       ],
       "Links": {
@@ -334,8 +334,12 @@
       "no": 11,
       "group": "Reguler 11",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "Studi In Silico Aktovitas Metabolit Sekunder Moringa oleifera terhadap MMP-13 sebagai Target Terapi Osteoarthritis",
+      "title": "STUDI IN SILICO SENYAWA FLAVONOID KAEMPFEROL DAN ASTRAGALIN DARI DAUN KELOR (Moringa oleifera Lam.) TERHADAP MMP-13 SEBAGAI TARGET POTENSIAL OSTEOARTHRITIS",
       "members": [
+        {
+          "name": "Lintang Ashilla Manaharany",
+          "nim": "23/514628/BI/11197"
+        },
         {
           "name": "Tia Tevania Arifin",
           "nim": "23/514669/BI/11201"
@@ -351,10 +355,6 @@
         {
           "name": "Ziyan Fareysa Abharani",
           "nim": "23/515018/BI/11213"
-        },
-        {
-          "name": "Lintang Ashilla Manaharany",
-          "nim": "23/514628/BI/11197"
         }
       ],
       "Links": {
@@ -382,12 +382,12 @@
           "nim": "23/517676/BI/11266"
         },
         {
-          "name": "Juanita Aldriantika",
-          "nim": "23/522079/BI/11364"
-        },
-        {
           "name": "Arkanti Anggita Putri",
           "nim": "23/518217/BI/11282"
+        },
+        {
+          "name": "Juanita Aldriantika",
+          "nim": "23/522079/BI/11364"
         }
       ],
       "Links": {
@@ -400,23 +400,23 @@
       "no": 13,
       "group": "IUP 1",
       "theme": "Machine Learning & Big Data dalam Biologi",
-      "title": "WBC Numeration Using Image Recognition",
+      "title": "WBCatch: Machine Learning Approach for WBC Identification",
       "members": [
         {
-          "name": "Salvana",
-          "nim": ""
+          "name": "Naomi Zola Sebayang",
+          "nim": "23/511402/BI/11160"
         },
         {
-          "name": "Rizal",
-          "nim": ""
+          "name": "Salvana Penta Meyska",
+          "nim": "23/511417/BI/11161"
         },
         {
-          "name": "Sebayang",
-          "nim": ""
+          "name": "Rizal Alfarizan Ramadhan",
+          "nim": "23/516213/BI/11241"
         },
         {
-          "name": "Risqa",
-          "nim": ""
+          "name": "Risqa Ramadhina Akhsan",
+          "nim": "23/516694/BI/11249"
         }
       ],
       "Links": {
@@ -429,27 +429,19 @@
       "no": 14,
       "group": "IUP 2",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "Analisis Molecular Docking Senyawa Steroid Pregnana Fenolik Aktif dari Scleronephthya gracillimum terhadap VanA Ligase pada Vancomycin-Resistant Enterococcus faecium",
+      "title": "Network Pharmacology Analysis of Ginkgo biloba as a Natural Anti-Alzheimer Agent",
       "members": [
         {
-          "name": "Laras Ati",
-          "nim": "23/512073/BI/11169"
+          "name": "Muhammad Fazli Makatita",
+          "nim": "23/516245/BI/11243"
         },
         {
-          "name": "Geofani Karine Apriliana",
-          "nim": "23/515137/BI/11218"
+          "name": "Gabriela Arista Phoebe Sutanto",
+          "nim": "23/516145/BI/11238"
         },
         {
-          "name": "Aditya Ilham Alim",
-          "nim": "23/513104/BI/11177"
-        },
-        {
-          "name": "Angelina Malya Talitha Wasitadewi",
-          "nim": "23/512089/BI/11170"
-        },
-        {
-          "name": "Firdausia Ayu Zuhria",
-          "nim": "23/523123/BI/11382"
+          "name": "Shainna Nur Sharfina",
+          "nim": "23/511642/BI/11167"
         }
       ],
       "Links": {

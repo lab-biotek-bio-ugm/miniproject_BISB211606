@@ -36,7 +36,7 @@
     {
       "no": 20,
       "group": "Reguler 20",
-      "theme": "",
+      "theme": "Bioinformatika Medis / Klinis",
       "title": "Analisis Perbandingan Molecular Docking Apigenin Daun Sirih (Piper betle L.)  dan Derivatif Fucoxanthin dari Ganggang Coklat (Chnoospora minima)  sebagai Kandidat Antidiabetes Alami",
       "members": [
         {
@@ -45,19 +45,19 @@
         },
         {
           "name": "Okcarinda Wahyu Romadani",
-          "nim": "23/514464/BBI/11193"
+          "nim": "23/514464/BI/11193"
         },
         {
           "name": "Audrey Azalia Jovita",
           "nim": "23/515293/BI/11223"
         },
         {
-          "name": "Rofina Rima Permatasari",
-          "nim": "23/517792/BI/11270"
-        },
-        {
           "name": "Hasna Fika Nafisa",
           "nim": "23/516976/BI/11253"
+        },
+        {
+          "name": "Rofina Rima Permatasari",
+          "nim": "23/517792/BI/11270"
         }
       ],
       "Links": {
@@ -73,23 +73,23 @@
       "title": "Analisis Ekspresi Gen Diferensial dan Enrichment Pathway pada Dataset Kanker Payudara GSE15852",
       "members": [
         {
-          "name": "Pamastadewi Pryankha Hijrianto",
+          "name": "Pamastadewi P. H.",
           "nim": "23/513075/BI/11175"
         },
         {
-          "name": "Karina Raihana Salsabila",
+          "name": "Karina Raihana S.",
           "nim": "23/513869/BI/11187"
         },
         {
-          "name": "Tsaqifa Zuhayra Emery Bagus",
-          "nim": "23/516561/BI/11248"
-        },
-        {
-          "name": "Widya Arum Prastanti",
+          "name": "Widya Arum P.",
           "nim": "23/514552/BI/11194"
         },
         {
-          "name": "Aan Nur Risla Wardana",
+          "name": "Tsaqifa Zuhayra E. B.",
+          "nim": "23/516561/BI/11248"
+        },
+        {
+          "name": "Aan Nur Risla W.",
           "nim": "23/519008/BI/11305"
         }
       ],
@@ -103,23 +103,23 @@
       "no": 22,
       "group": "Reguler 22",
       "theme": "Machine Learning & Big Data dalam Biologi",
-      "title": "Analisis Variasi Morfologi Wajah Manusia Antar Populasi Menggunakan Face Recognition Berbasis Machine Learning",
+      "title": "AutoLandmark: Sistem Otomatis Penempatan Titik Landmark Wajah untuk Analisis Morfometrik Geometrik dengan Visualisasi PCA, Heatmap dan Uji Manova",
       "members": [
+        {
+          "name": "Salma Farah Yumna",
+          "nim": "23/515006/BI/11212"
+        },
         {
           "name": "Dinda Luthfiani Nurul Ulya",
           "nim": "23/514705/BI/11203"
-        },
-        {
-          "name": "Nadhifa Aghmia Zain",
-          "nim": "23/521725/BI/11353"
         },
         {
           "name": "Nazwa Nur Sahara",
           "nim": "23/514177/BI/11190"
         },
         {
-          "name": "Salma Farah Yumna",
-          "nim": "23/515006/BI/11212"
+          "name": "Nadhifa Aghmia Zain",
+          "nim": "23/521725/BI/11353"
         }
       ],
       "Links": {
@@ -132,11 +132,15 @@
       "no": 23,
       "group": "Reguler 23",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "Deteksi dan Analisis Filogenetik Kontaminasi Gammacoronavirus pada Sampel Kelelawar Menggunakan Nested PCR Gen RdRp dan Oxford Nanopore Sequencing",
+      "title": "Deteksi dan Analisis Filogenetik Kontaminasi pada Gammacoronavirus Sampel Kelelawar Menggunakan Nested PCR Gen RdRp dan Oxford Nanopore Sequencing",
       "members": [
         {
+          "name": "Gadiza Larasayu Ginantika",
+          "nim": "23/521879/BI/11360"
+        },
+        {
           "name": "Agnesia Elovani",
-          "nim": ""
+          "nim": "23/521193/BI/11340"
         },
         {
           "name": "Citra Nur Rohmatun",
@@ -149,10 +153,6 @@
         {
           "name": "Amila Rahima Husna",
           "nim": "22/504420/BI/11120"
-        },
-        {
-          "name": "Gadiza Larasayu Ginantika",
-          "nim": "23/521879/BI/11360"
         }
       ],
       "Links": {
@@ -168,24 +168,24 @@
       "title": "Analisis In Silico Interaksi Fitohormon terhadap Enzim Sucrose Phosphate Synthase (SPS) dan L-Galactono-1,4-Lactone Dehydrogenase (GalLDH) sebagai Strategi Peningkatan Kualitas  Citrus nobilis dalam Menghadapi Huanglongbing (HLB)",
       "members": [
         {
-          "name": "Arrum Minafaka Quthrotun Nada",
-          "nim": "23/515372/BI/11225"
+          "name": "Angga Firza Pratama",
+          "nim": "23/517433/BI/11258"
         },
         {
           "name": "Aulia Annisa Azzahra",
           "nim": "23/520592/BI/11325"
         },
         {
+          "name": "Adika Pramudya Nugraha",
+          "nim": "23/516889/BI/11252"
+        },
+        {
           "name": "Lintang Permatasari",
           "nim": "23/515270/BI/11222"
         },
         {
-          "name": "Angga Firza Pratama",
-          "nim": "23/517433/BI/11258"
-        },
-        {
-          "name": "Adika Pramudya Nugraha",
-          "nim": "23/516889/BI/11252"
+          "name": "Arrum Minafaka Quthrotun Nada",
+          "nim": "23/515372/BI/11225"
         }
       ],
       "Links": {
@@ -198,10 +198,18 @@
       "no": 25,
       "group": "Reguler 25",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "Analisis Molecular Docking dan Prediksi ADMET Senyawa Metabolit Daun Psidium guajava Sebagai Kandidat Antidengue Terhadap Protein NS2B/NS3 Protease",
+      "title": "ANALISIS MOLECULAR DOCKING DAN PREDIKSI ADMET SENYAWA METABOLIT DAUN Psidium guajava TERHADAP PROTEIN NS2B/NS3 PROTEASE",
       "members": [
         {
-          "name": "Regina Siska EN",
+          "name": "Nayla Rahmah Khairunnia",
+          "nim": "23/514995/BI/11211"
+        },
+        {
+          "name": "Nabila Latifa Riftyana",
+          "nim": "23/517697/BI/11268"
+        },
+        {
+          "name": "Regina Siska Ekaristi Nainggolan",
           "nim": "23/520773/BI/11332"
         },
         {
@@ -210,15 +218,7 @@
         },
         {
           "name": "Sandra Dewi Ayu Saputri",
-          "nim": ""
-        },
-        {
-          "name": "Nabila Latifa Riftyana",
-          "nim": "23/517697/BI/11268"
-        },
-        {
-          "name": "Nayla Rahmah Khairunnisa",
-          "nim": "23/514995/BI/11211"
+          "nim": "23/521162/BI/11339"
         }
       ],
       "Links": {
