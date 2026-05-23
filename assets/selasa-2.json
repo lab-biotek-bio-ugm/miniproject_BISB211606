@@ -1,0 +1,128 @@
+{
+  "sessions": {
+    "start": 960,
+    "duration": 15
+  },
+  "slots": [
+    {
+      "no": 26,
+      "group": "Reguler 26",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "Molecular Docking Senyawa Fitokimia Lokal Indonesia terhadap CDK1 sebagai Target Terapi Kanker Serviks Menggunakan GNINA",
+      "members": [
+        {
+          "name": "Elsa Sabrina",
+          "nim": "23/521677/BI/11351"
+        },
+        {
+          "name": "Alifia Jasmine Thanaya Lahadina",
+          "nim": "23/519061/BI/11308"
+        },
+        {
+          "name": "Eldira Dinar Putri Anjani",
+          "nim": "23/521828/BI/11358"
+        },
+        {
+          "name": "Arnetta Tiara",
+          "nim": "23/521810/BI/11357"
+        },
+        {
+          "name": "Birulangit Cakrawala D",
+          "nim": "23/520213/BI/11321"
+        }
+      ],
+      "Links": {
+        "github": "",
+        "poster": "https://drive.google.com/open?id=13592S9xSQuhUvciTrr6JfV9JUuEP7AI1"
+      },
+      "poster_session": "Day 2"
+    },
+    {
+      "no": 27,
+      "group": "Reguler 27",
+      "theme": "Bioinformatika Evolusioner & Filogenetik",
+      "title": "Identifikasi Pola Kepadatan Populasi Macaca fascicularis di Indonesia Menggunakan Pendekatan Unsupervised Machine Learning untuk Analisis Potensi Human-Wildlife Conflict",
+      "members": [
+        {
+          "name": "Lanaa Naila Najiha",
+          "nim": "23/515427/BI/11227"
+        },
+        {
+          "name": "Fadhlurrahman Manaarul Huda Surya Falah",
+          "nim": "23/519885/BI/11318"
+        },
+        {
+          "name": "Maria Nathania Prasetyo",
+          "nim": ""
+        }
+      ],
+      "Links": {
+        "github": "https://github.com/MariaNathaniaPrasetyo/MonkeyAttack.git",
+        "poster": "https://drive.google.com/open?id=1io5ZqucDGuE46PI0rOYmLs68ERv1ejOT"
+      },
+      "poster_session": "Day 2"
+    },
+    {
+      "no": 28,
+      "group": "Reguler 28",
+      "theme": "Bioinformatika Medis / Klinis",
+      "title": "REKAYASA SISTEM SEDIAAN NANO: PEMETAAN SAINTOMETRIK GLOBAL TERHADAP INOVASI NANOMATERIAL UNTUK TERAPI DEPRESI",
+      "members": [
+        {
+          "name": "Mochamad Burhanuddin",
+          "nim": "23/523073/BI/11379"
+        },
+        {
+          "name": "Miftahurrozi",
+          "nim": "23/521832/BI/11359"
+        },
+        {
+          "name": "Khurin 'Aini",
+          "nim": "23/523091/BI/11380"
+        },
+        {
+          "name": "Hafizh Wahyu S",
+          "nim": "23/523176/BI/11383"
+        }
+      ],
+      "Links": {
+        "github": "https://github.com/Hapisss23/Molekuler-Docking-Quercetin-with-GABAA",
+        "poster": "https://drive.google.com/open?id=1TUvXZ4zEC0ksK1eYjVB8ABIgMUJGqU7Q"
+      },
+      "poster_session": "Day 2"
+    },
+    {
+      "no": 30,
+      "group": "Reguler 30",
+      "theme": "Bioinformatika Struktural & Fungsional",
+      "title": "Karakterisasi Struktur dan Fungsi Spike Protein SARS-CoV-2 melalui Pemodelan Struktural 3D berbasis SWISS-MODEL",
+      "members": [
+        {
+          "name": "Farah Adina Ratri Sachariano",
+          "nim": "23/518439/BI/11288"
+        },
+        {
+          "name": "Grace Leilani Tumiwa",
+          "nim": "23/514910/BI/11209"
+        },
+        {
+          "name": "Foumiga Gusten Oktaviana",
+          "nim": "23/522176/BI/11356"
+        },
+        {
+          "name": "Fathma 'Ainusshifa'",
+          "nim": "23/522749/BI/11377"
+        },
+        {
+          "name": "Maidira Marsa Rabbani",
+          "nim": "23/516105/BI/11237"
+        }
+      ],
+      "Links": {
+        "github": "",
+        "poster": "https://drive.google.com/open?id=1W4L3m9C0YCA2-Pg0gM6OO1EvlWJ9RjMF"
+      },
+      "poster_session": "Day 2"
+    }
+  ]
+}
