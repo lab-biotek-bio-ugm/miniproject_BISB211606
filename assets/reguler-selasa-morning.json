@@ -31,14 +31,13 @@
           "nim": "23/518454/BI/11290"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "poster_session": "Day 2"
     },
     {
       "no": 20,
       "group": "Reguler 20",
       "theme": "",
-      "title": "",
+      "title": "Analisis Perbandingan Molecular Docking Apigenin Daun Sirih (Piper betle L.)  dan Derivatif Fucoxanthin dari Ganggang Coklat (Chnoospora minima)  sebagai Kandidat Antidiabetes Alami",
       "members": [
         {
           "name": "Ardelia Shafaa Nabiilah",
@@ -61,8 +60,11 @@
           "nim": "23/516976/BI/11253"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/rofinarimapermatasari/Bioinformatika.git",
+        "poster": "https://drive.google.com/open?id=1q2ixLq8w7Gv5YWT581GCyMFIy3WPMoJQ"
+      },
+      "poster_session": "Day 2"
     },
     {
       "no": 21,
@@ -91,8 +93,11 @@
           "nim": "23/519008/BI/11305"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/widyaarump-tech/MINI-PROJECT-BIOINFORMATIKA/tree/main",
+        "poster": "https://drive.google.com/open?id=1rc1GRzfeX2AmuCwwk8TDJ_tU9Mn7C6X7"
+      },
+      "poster_session": "Day 2"
     },
     {
       "no": 22,
@@ -117,8 +122,11 @@
           "nim": "23/515006/BI/11212"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/dindaluthfianinurululya/dindaluthfiani",
+        "poster": "https://drive.google.com/open?id=1WHBuXDv4lfGzcjHVutxhPOmV_k2C4Z-v"
+      },
+      "poster_session": "https://drive.google.com/open?id=1WHBuXDv4lfGzcjHVutxhPOmV_k2C4Z-v"
     },
     {
       "no": 23,
@@ -147,14 +155,17 @@
           "nim": "23/521879/BI/11360"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/Agnesia20/Mini-Project-Bioinformatics-23-Reguler",
+        "poster": "https://drive.google.com/open?id=1eV6d1vrZQozU_RI_r5bCs_nt6DZGzIAN"
+      },
+      "poster_session": "https://drive.google.com/open?id=1eV6d1vrZQozU_RI_r5bCs_nt6DZGzIAN"
     },
     {
       "no": 24,
       "group": "Reguler 24",
       "theme": "Bioinformatika Pertanian & Peternakan",
-      "title": "",
+      "title": "Analisis In Silico Interaksi Fitohormon terhadap Enzim Sucrose Phosphate Synthase (SPS) dan L-Galactono-1,4-Lactone Dehydrogenase (GalLDH) sebagai Strategi Peningkatan Kualitas  Citrus nobilis dalam Menghadapi Huanglongbing (HLB)",
       "members": [
         {
           "name": "Arrum Minafaka Quthrotun Nada",
@@ -177,8 +188,11 @@
           "nim": "23/516889/BI/11252"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://bit.ly/GitHub-MiniProjectBioinformatics",
+        "poster": "https://drive.google.com/open?id=1EG3pWs623gbcPGlqs2Mn85QlFIbu9GRv"
+      },
+      "poster_session": "https://drive.google.com/open?id=1EG3pWs623gbcPGlqs2Mn85QlFIbu9GRv"
     },
     {
       "no": 25,
@@ -207,8 +221,11 @@
           "nim": "23/514995/BI/11211"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/Nayladelis/PROJECT-BIOINFORMATIKA_REGULER-25_2026.git",
+        "poster": "https://drive.google.com/open?id=1I0KedVMnqDeQp0VxsatHiJwm2G4TIoIZ"
+      },
+      "poster_session": "https://drive.google.com/open?id=1I0KedVMnqDeQp0VxsatHiJwm2G4TIoIZ"
     }
   ]
 }

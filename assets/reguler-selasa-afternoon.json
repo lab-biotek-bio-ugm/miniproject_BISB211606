@@ -31,14 +31,17 @@
           "nim": "23/520213/BI/11321"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "",
+        "poster": "https://drive.google.com/open?id=13592S9xSQuhUvciTrr6JfV9JUuEP7AI1"
+      },
+      "poster_session": "Day 2"
     },
     {
       "no": 27,
       "group": "Reguler 27",
       "theme": "Bioinformatika Evolusioner & Filogenetik",
-      "title": "",
+      "title": "Identifikasi Pola Kepadatan Populasi Macaca fascicularis di Indonesia Menggunakan Pendekatan Unsupervised Machine Learning untuk Analisis Potensi Human-Wildlife Conflict",
       "members": [
         {
           "name": "Lanaa Naila Najiha",
@@ -53,14 +56,17 @@
           "nim": ""
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/MariaNathaniaPrasetyo/MonkeyAttack.git",
+        "poster": "https://drive.google.com/open?id=1io5ZqucDGuE46PI0rOYmLs68ERv1ejOT"
+      },
+      "poster_session": "Day 2"
     },
     {
       "no": 28,
       "group": "Reguler 28",
       "theme": "Bioinformatika Medis / Klinis",
-      "title": "",
+      "title": "REKAYASA SISTEM SEDIAAN NANO: PEMETAAN SAINTOMETRIK GLOBAL TERHADAP INOVASI NANOMATERIAL UNTUK TERAPI DEPRESI",
       "members": [
         {
           "name": "Mochamad Burhanuddin",
@@ -79,8 +85,11 @@
           "nim": "23/523176/BI/11383"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "https://github.com/Hapisss23/Molekuler-Docking-Quercetin-with-GABAA",
+        "poster": "https://drive.google.com/open?id=1TUvXZ4zEC0ksK1eYjVB8ABIgMUJGqU7Q"
+      },
+      "poster_session": "Day 2"
     },
     {
       "no": 30,
@@ -109,8 +118,11 @@
           "nim": "23/516105/BI/11237"
         }
       ],
-      "github": "",
-      "poster": "Day 2"
+      "Links": {
+        "github": "",
+        "poster": "https://drive.google.com/open?id=1W4L3m9C0YCA2-Pg0gM6OO1EvlWJ9RjMF"
+      },
+      "poster_session": "Day 2"
     }
   ]
 }
