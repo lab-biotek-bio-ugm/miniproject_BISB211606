@@ -14,7 +14,7 @@ pagetitle: "Main Schedule"
 | Time | Event | Title | Speakers | Moderator / Judges |
 |---|-----|---------|-----|-----|
 | 10.00 - 10.30 | Opening Remarks | | Matin Nuhamunada | |
-| 10.30 - 11.30 | Guest Lecture 1 | Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems | **Serge Andrefouet** | Mirza Hanif Al Falah |
+| 10.30 - 11.30 | Guest Lecture 1 | [Benefits and Challenges of Marine Spatial Planning for Small Indo-Pacific Islands and Their Socio-Ecosystems](https://www.youtube.com/live/OuUsCJgTXHE) | **Serge Andrefouet** | Mirza Hanif Al Falah |
 | 11.30 - 12.00 | Break | | | |
 | 12.00 - 15.30 | Session 1 | 9 Student Presentations | — | Winda Lutfiana Hafidz, Afra Majida Hariono, Nurul Istiqomah |
 |  |  | 5 Student Presentations | — | Achmad Nadhmi Arfa, Alda Zaenida Nurul Raizma, Kyla Tattvara Faza Arumdapta |
@@ -27,7 +27,7 @@ pagetitle: "Main Schedule"
 | Time | Event | Title | Speakers | Moderator / Judges |
 |---|-----|---------|-----|-----|
 | 13.00 - 14.45 | Session 3 | 7 Student Presentations | — | Nirina Adelita Putri, Muhammad Meshal Ramadhayesa, Huriyah Winda Nabillah |
-| 15.00 - 16.00 | Guest Lecture 2 | Large-Scale Biomanufacturing and Intelligent Synthetic Biology | **Zhijie Yang** | Arief Muammar |
+| 15.00 - 16.00 | Guest Lecture 2 | [Large-Scale Biomanufacturing and Intelligent Synthetic Biology](https://www.youtube.com/live/kraCAn-1mjM) | **Zhijie Yang** | Arief Muammar |
 | 16.00 - 17.00 | Session 4 | 4 Student Presentations | — | Adelia Khairunnisa, Annisa Nur Baety, Feliciana Clara Henderison |
 | 17.00 - 17.15 | Wrap Up | | Matin Nuhamunada | |
 : {.table .table-striped .table-hover .schedule-table}
